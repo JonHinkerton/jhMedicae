@@ -1,0 +1,247 @@
+{
+    "strings": {
+        "60436fb4-dd59-4af2-88a7-374b6468ba9e": {
+            "Text": "Medicae"
+        },
+		"73fa5e48-6051-43f8-8341-993ec9c29392": {
+            "Text": "medicae description"
+        },
+		"8727793d-be2e-4aea-a5c0-d0284ddd47a2": {
+			"Text": "k Battlefield Medicine"
+		},
+		"f0dcfaba-a9f0-4541-8f0b-6e93260b66ee": {
+			"Text": "bfm"
+		},
+		"634067d8-9827-43c4-a189-da074929c584": {
+			"Text": "k Resuscitate"
+		},
+		"a9dc0584-1581-4871-837e-3d7eabe0001e": {
+			"Text": ""
+		},
+		"30745d46-8364-4b20-9973-f14c2dbc43c3": {
+			"Text": "a Medicae Servoskull"
+		},
+		"44cfb36b-b25a-4b68-a7ab-1cdc6fd56a2d": {
+			"Text": ""
+		},
+		"fe35c7e8-c11a-4b99-a173-d542ba182724": {
+			"Text": "a To the Rescue - dashlike"
+		},
+		"86e88282-b13e-4d53-89e8-4761db2c0f1b": {
+			"Text": ""
+		},
+		"725f7d4a-af6e-4a87-b262-b95a91a15665": {
+			"Text": "a Panacea - clear lots of conditions"
+		},
+		"59178786-c25e-43e4-9b88-28392d999e3d": {
+			"Text": ""
+		},
+		"ec216a29-dd8e-4611-aa4f-108eca553243": {
+			"Text": "a Combat Drugs - stat buffs & temp hp"
+		},
+		"2a85eb96-bb1b-4fe7-b20f-798a9d9c5eaa": {
+			"Text": ""
+		},
+		"91f37709-0d5d-47c2-b8fb-264e344b4c6a": {
+			"Text": "a The Emporer's Peace - autokill incapacitated enemies"
+		},
+		"b1edd962-56b3-478f-8ffd-7101317c6bdf": {
+			"Text": ""
+		},
+		"944c7d9a-9bf3-4ad4-a35a-3813d0032443": {
+			"Text": "u Savior - heals all allies with battlefield medicine"
+		},
+		"35186455-991c-46c0-a5f4-7c995f3a881b": {
+			"Text": ""
+		},
+		"7b4c20a2-e516-4039-afd1-6b6021e6d674": {
+			"Text": "ux Martyr - heals all allies but damages medic"
+		},
+		"9866dd54-0275-49fa-9d9a-67c99ef0ae11": {
+			"Text": ""
+		},
+		"6ccf612e-83be-4bdd-86d2-73db44911448": {
+			"Text": "u1 - heals to full"
+		},
+		"55dc828e-63f8-4678-8a3f-73676be5c25d": {
+			"Text": ""
+		},
+		"dcfa3425-df82-4897-81a6-84d3f1b270c4": {
+			"Text": "u2 - adds unkillable"
+		},
+		"5a0b11e6-f7d7-4a58-8184-2a0a4c531acf": {
+			"Text": ""
+		},
+		"e31ab3a8-3858-4acb-b2c0-adf8fca280dc": {
+			"Text": "u3 - adds common debuff clear"
+		},
+		"645a45e3-0174-49b0-8b95-1bacab1c4ba2": {
+			"Text": ""
+		},
+		"243c7eb1-6120-4484-8f74-3ba138be87f3": {
+			"Text": "u4 - adds a boost to medicae for the rest of the combat"
+		},
+		"ad2e24ee-5d6a-4ea3-ba7a-c56a6246e49d": {
+			"Text": ""
+		},
+		"a8666f4c-6b98-4e9a-86d9-9996a28f3d9f": {
+			"Text": "t1 Well-Stocked - bonus to medkit healing"
+		},
+		"ce5ada95-dabc-413d-a1cd-7c28ee45fef4": {
+			"Text": ""
+		},
+		"1f67e1e5-bad8-4154-b091-a691ffc37599": {
+			"Text": "t2 Diagnosticar - bump to medicae"
+		},
+		"6ec0424d-dd91-422a-a232-a300bcce636e": {
+			"Text": ""
+		},
+		"2a6b81c3-88df-4048-83f3-374b648f5ae5": {
+			"Text": "t3 Anatomist - crit hit and damage buff"
+		},
+		"a66c4390-cefa-40fc-b96c-bc93dc47667a": {
+			"Text": ""
+		},
+		"1467bacd-3692-4a6e-b363-555a5b439ddd": {
+			"Text": "t4 Amputate - melee hits cause bleeding"
+		},
+		"7a62c66b-925b-46db-9f2d-c93ec2e7e196": {
+			"Text": ""
+		},
+		"a8d6acd2-72fd-422c-a941-3a0beb2f5936": {
+			"Text": "t5 Bonesaw - chain weapon damage bonus based on medicae"
+		},
+		"7428ad04-2b28-4ee7-b9a6-3add68598fc7": {
+			"Text": ""
+		},
+		"8c80cf4e-64c2-48c3-9840-9caf727eadce": {
+			"Text": "t6 Biologis Servoskull - healing bonus for ss "
+		},
+		"8f4f3500-fda1-4b7e-8675-732c751187c3": {
+			"Text": ""
+		},
+		"f841a10e-55be-4d56-ae6d-43dc18897538": {
+			"Text": "t7 Stay Low - To the rescue makes medicae lowest priority"
+		},
+		"5b25c69f-011d-4ff3-a8f3-c6d7a49fa681": {
+			"Text": ""
+		},
+		"8e2d4b87-85b3-4b1a-91fb-7f9ca7f2867f": {
+			"Text": "t8 - Reanimator - adds hp to resuscitate"
+		},
+		"1782299a-48e4-4e92-8dcb-3f506899c6d2": {
+			"Text": ""
+		},
+		"1360a713-6e5e-4ac6-bec6-5809463cb6f1": {
+			"Text": "t9 - Overmedicate - Adds medicae/10 temp wounds to healing"
+		},
+		"d21a75bc-d75c-40fb-b9b3-eccda7c4f9dc": {
+			"Text": ""
+		},
+		"eb1d50f6-fc59-4b40-b9a9-90992cc4347f": {
+			"Text": "t10 - Innoculate - Panacea adds resistance bonus"
+		},
+		"8fa1dc5a-3cd7-4dd7-85f2-bb3e29c25a45": {
+			"Text": ""
+		},
+		"f3fc8e16-f668-47f8-9212-b57d18b84b2b": {
+			"Text": "t11 Chiurgeon - battlefield medicine has a medicae skill chance to clear one trauma"
+		},
+		"375fb387-9404-4d51-bd81-b1281d6b2e7a": {
+			"Text": ""
+		},
+		"5d1e5de1-c2b5-4bb3-91f1-037e96f1d2bb": {
+			"Text": "t12"
+		},
+		"3aa4cdd3-9ed6-408b-8c40-ee8d2f6f2f2b": {
+			"Text": ""
+		},
+		"3b3dd8c9-a4a7-4430-90a0-817010b9c79f": {
+			"Text": "t13 Bad Medicine - toxin damage buff"
+		},
+		"907ab6f0-f8ef-4011-a059-6b15c8919fe9": {
+			"Text": ""
+		},
+		"27ffd9d5-686e-4cf6-aae2-e0b233bdc3c3": {
+			"Text": "t14 Physician Heal Thyself - using keystone on self is 1 ap"
+		},
+		"009bdaad-0691-4e12-aaf8-3cdaa43cb624": {
+			"Text": ""
+		},
+		"ab434338-35af-4964-84a2-8611bcbad083": {
+			"Text": "t15 First Responder - adds medicae/10 to initiative"
+		},
+		"cd76dcd7-6480-4b28-91d8-16b0a69b52fb": {
+			"Text": ""
+		},
+		"c23e8b2b-66f8-4b7a-87c8-8ab3a37789a2": {
+			"Text": "t16 Code blue - free turn to move and cast rescuscitate once per combat"
+		},
+		"c27f8746-3aa6-4582-86cc-0133037f5c70": {
+			"Text": ""
+		},
+		"d63858c4-2fb1-48a0-81d6-30a17f354a2d": {
+			"Text": "t17"
+		},
+		"b4f064f3-ec75-4dd6-9137-d594e77e7b12": {
+			"Text": ""
+		},
+		"cdb07f43-b759-49c1-8726-b4ecc1064607": {
+			"Text": "t18"
+		},
+		"40d4babc-c800-4bbd-a69d-5d07f1322ba2": {
+			"Text": ""
+		},
+		"1a15ba15-98b1-4960-8d4f-9eefb8d89ba4": {
+			"Text": "T19"
+		},
+		"7ad5b5ee-fdde-4b2c-98f5-5fda80bf7037": {
+			"Text": ""
+		},
+		"f5d40d80-2eac-4053-bec7-48da3ba847d7": {
+			"Text": "T20"
+		},
+		"5f4f96c0-e57c-4f04-8291-d867a04c44ee": {
+			"Text": ""
+		},
+		"c89d5b1a-f896-4b58-85d2-24c608a1b643": {
+			"Text": ""
+		},
+		"2292c585-f2a8-4c54-ba3e-52a9c54377b7": {
+			"Text": ""
+		},
+		"5e8b996e-0e06-4a7f-bf9e-a9c19907dfe0": {
+			"Text": ""
+		},
+		"abea8fa3-9b69-4c7b-9b5c-c9a033d0b671": {
+			"Text": ""
+		},
+		"6349a992-4a3b-4a8a-ba3a-bb814ee202cf": {
+			"Text": ""
+		},
+		"bc2bd1cc-75b5-4c93-a30e-3309798e9077": {
+			"Text": ""
+		},
+		"8701d17a-c072-4a77-bf6a-45fcb8b28de3": {
+			"Text": ""
+		},
+		"ed474d45-5464-47d5-af61-719250d0a0a5": {
+			"Text": ""
+		},
+		"c0d927b4-eb9b-45bf-8f25-66e937d3258b": {
+			"Text": ""
+		},
+		"e3d1f30b-9b5a-4ae8-832f-e19dd26787c6": {
+			"Text": ""
+		},
+		"1c11c1dd-8c21-4cc6-ae9a-daa9563d44b2": {
+			"Text": ""
+		},
+		"9a4f8da5-0d62-4a41-b616-58cbb4a9a097": {
+			"Text": ""
+		},
+		"3f71b4b6-6fdf-4458-bb45-18a6b8439c7c": {
+			"Text": ""
+		}
+    }
+}
