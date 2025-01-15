@@ -1,0 +1,81 @@
+{
+  "AssetId": "16ba880312574c11a9f4270c7e0f48ae",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "960638d10abe4b71a23cad4873b9a5d5, ReplaceBonusDamageStat",
+        "name": "$ReplaceBonusDamageStat$d248816c-7b4c-43fe-b706-84f8224a6cb4",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "NewStat": "SkillMedicae",
+        "ReplaceStrengthForMeleeDamage": true,
+        "ReplaceIntelligenceForRangedAreaDamage": false
+      },
+      {
+        "$type": "74999d4fdbb7037469dcc37ac14a67f5, RestrictionHasFact",
+        "name": "$RestrictionHasFact$db68d0bb-47df-41cf-9fa5-996623bb47af",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_903bb235e56d4dbebbfaf9372976b66f",
+        "Not": false
+      }
+    ],
+    "Author": "Unknown",
+    "Comment": "",
+    "m_DisplayName": {
+      "m_Key": "a8d6acd2-72fd-422c-a941-3a0beb2f5936",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "7428ad04-2b28-4ee7-b9a6-3add68598fc7",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "m_AllowNonContextActions": false,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "Ranks": 1,
+    "Prerequisites": {
+      "Composition": "And",
+      "List": []
+    },
+    "FeatureTypes": [
+      "Universal",
+      "Archetype"
+    ],
+    "TalentIconInfo": {
+      "AllGroups": "Damage",
+      "MainGroup": "Damage"
+    },
+    "m_Acronym": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "ShowInDialogue": false,
+    "IsStarshipFeature": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

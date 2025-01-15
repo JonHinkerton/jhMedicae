@@ -1,0 +1,189 @@
+{
+  "AssetId": "03cc803dc3244a5aa3bca8315844f496",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$a17053f5-0e4a-4f84-bb88-56edb64e4d07",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "FirstCareerAbility",
+        "m_Features": [
+          "!bp_71ccbfb5dff94161939de196ce0f3f6f",
+          "!bp_567f60adf5234dfabc13f07a13b574e6",
+          "!bp_247fceb383d64f678376930b79a5dad0",
+          "!bp_2d898937a510444daf3c9337d7fa5173",
+          "!bp_372f0ec0169940f08c710d2ff2159a26"
+        ]
+      },
+      {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$07724257-9d87-43b7-804f-54b3f9f205ca",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "FirstOrSecondCareerAbility",
+        "m_Features": [
+          "!bp_71ccbfb5dff94161939de196ce0f3f6f",
+          "!bp_567f60adf5234dfabc13f07a13b574e6",
+          "!bp_247fceb383d64f678376930b79a5dad0",
+          "!bp_2d898937a510444daf3c9337d7fa5173",
+          "!bp_372f0ec0169940f08c710d2ff2159a26"
+        ]
+      },
+      {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$e4140944-90ec-405e-92f0-9eb2dd5ef18a",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "FirstCareerTalent",
+        "m_Features": [
+          "!bp_82401196b40f45a7883f45712bda4d58",
+          "!bp_0d51fe13ba1d4113bf787ef659933043",
+          "!bp_24539955f8b24ff98b96fb051bd5eedd",
+          "!bp_681958d68e9242f7992fc72cb8e21821",
+          "!bp_16ba880312574c11a9f4270c7e0f48ae",
+          "!bp_01ebec58e91d44f987858a64308e2228",
+          "!bp_a0fad395bd3e4dbbaf0b8531f71c9dc7",
+          "!bp_f9db2ab748ce4e3b8d6e99196323f254",
+          "!bp_969cece02cd84fc6ac3e10fa127e6a2e",
+          "!bp_46d4abe4b2b847ae82779cb14c6da1bc",
+          "!bp_55354807f1ea417faa45d020c15e8449",
+          "!bp_38a139e44d854a1e97256e4ff90fab86",
+          "!bp_1a734baf4d0c49eebd5dd9f14a8aebc5",
+          "!bp_47df504980c44ea384bf4e99f9184a53",
+          "!bp_0680f5abcc7b4d38a8d985a5626b7683",
+          "!bp_0e97e73c729a4e63ad032920fa7c060b",
+          "!bp_f31fb99eedfe4268932bb4e5d497f78d",
+          "!bp_ea3883fd2dff408698b4874812524139",
+          "!bp_be2d3ee874014bdebad4f75e615fdd80",
+          "!bp_505af650e75b4c56bba29e4def5d89f2"
+        ]
+      },
+      {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$9accbf77-bc0c-4b85-b045-d026fbaade54",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "FirstOrSecondCareerTalent",
+        "m_Features": [
+          "!bp_82401196b40f45a7883f45712bda4d58",
+          "!bp_0d51fe13ba1d4113bf787ef659933043",
+          "!bp_24539955f8b24ff98b96fb051bd5eedd",
+          "!bp_681958d68e9242f7992fc72cb8e21821",
+          "!bp_16ba880312574c11a9f4270c7e0f48ae",
+          "!bp_01ebec58e91d44f987858a64308e2228",
+          "!bp_a0fad395bd3e4dbbaf0b8531f71c9dc7",
+          "!bp_f9db2ab748ce4e3b8d6e99196323f254",
+          "!bp_969cece02cd84fc6ac3e10fa127e6a2e",
+          "!bp_46d4abe4b2b847ae82779cb14c6da1bc",
+          "!bp_55354807f1ea417faa45d020c15e8449",
+          "!bp_38a139e44d854a1e97256e4ff90fab86",
+          "!bp_1a734baf4d0c49eebd5dd9f14a8aebc5",
+          "!bp_47df504980c44ea384bf4e99f9184a53",
+          "!bp_0680f5abcc7b4d38a8d985a5626b7683",
+          "!bp_0e97e73c729a4e63ad032920fa7c060b",
+          "!bp_f31fb99eedfe4268932bb4e5d497f78d",
+          "!bp_ea3883fd2dff408698b4874812524139",
+          "!bp_be2d3ee874014bdebad4f75e615fdd80",
+          "!bp_505af650e75b4c56bba29e4def5d89f2"
+        ]
+      },
+      {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$af68498a-b9c5-49c6-8706-f19e2d10f65c",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Attribute",
+        "m_Features": [
+          "!bp_456f479710d64000b78d7852ed0a3f6f",
+          "!bp_db160826d8da4423b3f54ebe3da90741",
+          "!bp_2c1696055f6f4e4aa47f43eb3d7497f3",
+          "!bp_9cfe2afd83f14b1aa3c2f94e053396aa"
+        ]
+      },
+      {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$80c80841-1777-44fc-8653-2b588adefc15",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Skill",
+        "m_Features": [
+          "!bp_1afa19d04a904df4a76248b913421352",
+          "!bp_283b52d627134bbeaf6cbc01530d15dd",
+          "!bp_8b87ca1fd5974bc38e7c26e16098a3d7",
+          "!bp_02c0dab06e1845eeaf0a8823e5bedbb9"
+        ]
+      }
+    ],
+    "Author": "Unknown",
+    "Comment": "",
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "m_AllowNonContextActions": false,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Ranks": 1,
+    "Prerequisites": {
+      "Composition": "And",
+      "List": []
+    },
+    "FeatureTypes": [],
+    "TalentIconInfo": {
+      "AllGroups": 0,
+      "MainGroup": 0
+    },
+    "m_Acronym": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "ShowInDialogue": false,
+    "IsStarshipFeature": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Components": [
+    {
+      "PatchType": "PatchElement",
+      "Target": "$AddFeaturesToLevelUp$65a54b87-08e8-4e40-984f-9164f8cc679f",
+      "ElementPatch": {
+        "m_Features": [
+          {
+            "PatchType": "Insert",
+            "NewElement": "!bp_9f2dbe7a42f04fb59d27ba92c9842a26",
+            "InsertAfterTarget": "!bp_1c12ab2cda9e46e49253a425e29733a5"
+          }
+        ]
+      }
+    }
+  ]
+}
