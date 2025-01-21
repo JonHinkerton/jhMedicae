@@ -1,0 +1,27 @@
+{
+  "Prerequisites": {
+    "List": [
+      {
+        "PatchType": "PatchElement",
+        "Target": "$PrerequisiteComposite$9fbdb72329bf45f8918b8e852c0677c1",
+        "ElementPatch": {
+          "Prerequisites": {
+            "List": [
+              {
+                "PatchType": "Insert",
+                "NewElement": {
+                  "$type": "40a1bdb738834fb69a296a2677235b35, PrerequisiteFact",
+                  "name": "$PrerequisiteFact$8ccc7c994e0f479a801fe5b34fe349f5",
+                  "Not": false,
+                  "m_Fact": "!bp_3d9d2472a8a843dcbf90f182e8e623bd",
+                  "MinRank": 15
+                },
+                "InsertAfterTarget": "$PrerequisiteFact$2a8269c07fb2414984b13b7bb4f41d84"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

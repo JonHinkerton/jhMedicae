@@ -17,7 +17,7 @@
         "Name": "Value1",
         "SaveToContext": "No",
         "Value": {
-          "Operation": "Sum",
+          "Operation": "Div",
           "TargetType": "CurrentEntity",
           "FailSilentlyIfNoTarget": false,
           "Getters": [
@@ -25,7 +25,7 @@
               "$type": "fd03f97ef3d1416d9a95f874454886d9, SimplePropertyGetter",
               "name": "$SimplePropertyGetter$5c6441c36f6d4e77b8f83d0bfd89f95f",
               "Settings": {
-                "Progression": "BonusValue",
+                "Progression": "AsIs",
                 "m_CustomProgression": [],
                 "m_StartLevel": 0,
                 "m_StepLevel": 0,
@@ -35,6 +35,29 @@
                 "Max": 0
               },
               "Property": "SkillMedicae"
+            },
+            {
+              "$type": "71959818449d4891939b89c19a6d9a91, ContextValueGetter",
+              "name": "$ContextValueGetter$1d58285fe8d846d1a43b1acbe41d63c8",
+              "Settings": {
+                "Progression": "AsIs",
+                "m_CustomProgression": [],
+                "m_StartLevel": 0,
+                "m_StepLevel": 0,
+                "Negate": false,
+                "Limit": "None",
+                "Min": 0,
+                "Max": 0
+              },
+              "Value": {
+                "ValueType": "Simple",
+                "Value": 5,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "None",
+                "m_CustomProperty": null,
+                "PropertyName": "Value1"
+              }
             }
           ]
         }
@@ -50,10 +73,42 @@
         "m_Overrides": [],
         "Restrictions": {
           "Property": {
-            "Operation": "Sum",
+            "Operation": "Or",
             "TargetType": "CurrentEntity",
             "FailSilentlyIfNoTarget": false,
-            "Getters": []
+            "Getters": [
+              {
+                "$type": "ba648cd4033740aa987af4b641d583de, CheckAbilityWeaponFamilyGetter",
+                "name": "$CheckAbilityWeaponFamilyGetter$64a027a3c64644e6a508b8b5e657c819",
+                "Settings": {
+                  "Progression": "AsIs",
+                  "m_CustomProgression": [],
+                  "m_StartLevel": 0,
+                  "m_StepLevel": 0,
+                  "Negate": false,
+                  "Limit": "None",
+                  "Min": 0,
+                  "Max": 0
+                },
+                "Families": [
+                  "Chain"
+                ]
+              },
+              {
+                "$type": "8f5f1c0e21a08e24db71bc053ae54aa9, CheckAbilityWeaponIsNeedle",
+                "name": "$CheckAbilityWeaponIsNeedle$469865de22a3414b9334496b1aa2148d",
+                "Settings": {
+                  "Progression": "AsIs",
+                  "m_CustomProgression": [],
+                  "m_StartLevel": 0,
+                  "m_StepLevel": 0,
+                  "Negate": false,
+                  "Limit": "None",
+                  "Min": 0,
+                  "Max": 0
+                }
+              }
+            ]
           }
         },
         "Value": {
@@ -91,7 +146,7 @@
     "m_Icon": null,
     "m_AllowNonContextActions": false,
     "HideInUI": false,
-    "HideInCharacterSheetAndLevelUp": true,
+    "HideInCharacterSheetAndLevelUp": false,
     "HideNotAvailibleInUI": false,
     "Ranks": 1,
     "Prerequisites": {

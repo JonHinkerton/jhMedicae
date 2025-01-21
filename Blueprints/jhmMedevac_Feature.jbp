@@ -1,27 +1,49 @@
 {
-  "AssetId": "be2d3ee874014bdebad4f75e615fdd80",
+  "AssetId": "247fceb383d64f678376930b79a5dad0",
   "Data": {
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
     "PrototypeLink": "",
     "m_Overrides": [],
-    "Components": [],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$3bdb8944-4eff-4d6f-91f5-598f40c54ded",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_ae7fb58275ee4e21825a0515bd3505af"
+        ],
+        "Dummy": null,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      }
+    ],
     "Author": "Unknown",
     "Comment": "",
     "m_DisplayName": {
-      "m_Key": "1a15ba15-98b1-4960-8d4f-9eefb8d89ba4",
+      "m_Key": "725f7d4a-af6e-4a87-b262-b95a91a15665",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
       "Shared": null
     },
     "m_Description": {
-      "m_Key": "7ad5b5ee-fdde-4b2c-98f5-5fda80bf7037",
+      "m_Key": "59178786-c25e-43e4-9b88-28392d999e3d",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
       "Shared": null
     },
-    "m_Icon": null,
+	"m_Icon": {
+		"guid": "4ef2638e76c89c74e8adf8ab5e73f620",
+		"fileid": 21300000
+	},
     "m_AllowNonContextActions": false,
     "HideInUI": false,
     "HideInCharacterSheetAndLevelUp": true,

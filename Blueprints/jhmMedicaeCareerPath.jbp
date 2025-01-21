@@ -18,9 +18,9 @@
         "m_Features": [
           "!bp_71ccbfb5dff94161939de196ce0f3f6f",
           "!bp_567f60adf5234dfabc13f07a13b574e6",
-          "!bp_247fceb383d64f678376930b79a5dad0",
           "!bp_2d898937a510444daf3c9337d7fa5173",
-          "!bp_372f0ec0169940f08c710d2ff2159a26"
+          "!bp_372f0ec0169940f08c710d2ff2159a26",
+          "!bp_247fceb383d64f678376930b79a5dad0"
         ]
       },
       {
@@ -66,11 +66,9 @@
           "!bp_1a734baf4d0c49eebd5dd9f14a8aebc5",
           "!bp_47df504980c44ea384bf4e99f9184a53",
           "!bp_0680f5abcc7b4d38a8d985a5626b7683",
-          "!bp_0e97e73c729a4e63ad032920fa7c060b",
           "!bp_f31fb99eedfe4268932bb4e5d497f78d",
           "!bp_ea3883fd2dff408698b4874812524139",
-          "!bp_be2d3ee874014bdebad4f75e615fdd80",
-          "!bp_505af650e75b4c56bba29e4def5d89f2"
+          "!bp_be2d3ee874014bdebad4f75e615fdd80"
         ]
       },
       {
@@ -84,10 +82,10 @@
         "m_Overrides": [],
         "Group": "Attribute",
         "m_Features": [
-          "!bp_456f479710d64000b78d7852ed0a3f6f",
           "!bp_db160826d8da4423b3f54ebe3da90741",
           "!bp_2c1696055f6f4e4aa47f43eb3d7497f3",
-          "!bp_9cfe2afd83f14b1aa3c2f94e053396aa"
+          "!bp_9cfe2afd83f14b1aa3c2f94e053396aa",
+          "!bp_be989618fd794680b529112ac68cca22"
         ]
       },
       {
@@ -103,7 +101,7 @@
         "m_Features": [
           "!bp_1afa19d04a904df4a76248b913421352",
           "!bp_283b52d627134bbeaf6cbc01530d15dd",
-          "!bp_8b87ca1fd5974bc38e7c26e16098a3d7",
+          "!bp_931bde3e5aa54c2099ac0ca4cebcaa88",
           "!bp_02c0dab06e1845eeaf0a8823e5bedbb9"
         ]
       },
@@ -248,9 +246,10 @@
           "name": ""
         },
         "m_Overrides": [],
-        "m_KeystoneAbilities": [],
+        "m_KeystoneAbilities": [
+          "!bp_431ad1b600ed4e80b7032c5eea92e605"
+        ],
         "m_KeystoneFeatures": [
-          "!bp_01360879248b415983729381b0d99225",
           "!bp_e40bf22e8056455ab79bf73f5df067ea"
         ],
         "m_UltimateFeatures": [
@@ -263,17 +262,17 @@
         "m_RecommendedFeatures": [
           "!bp_db160826d8da4423b3f54ebe3da90741",
           "!bp_1afa19d04a904df4a76248b913421352",
-          "!bp_283b52d627134bbeaf6cbc01530d15dd",
           "!bp_71ccbfb5dff94161939de196ce0f3f6f",
-          "!bp_e8e9fbe8696e4820b84c733ceba629af",
-          "!bp_997e04600cad428faa31fa10e06e6e31",
-          "!bp_27b71e5bb62a4bf1ad94359f49ca5f52",
-          "!bp_52e493ce4309420c8270d53503642739",
-          "!bp_5f3732268bf044fab685fcead7998a3c",
-          "!bp_a53ad80c868042e1994371d0aec6d87c"
+          "!bp_55354807f1ea417faa45d020c15e8449",
+          "!bp_82401196b40f45a7883f45712bda4d58",
+          "!bp_16ba880312574c11a9f4270c7e0f48ae",
+          "!bp_ea3883fd2dff408698b4874812524139",
+          "!bp_be989618fd794680b529112ac68cca22",
+          "!bp_02c0dab06e1845eeaf0a8823e5bedbb9"
         ],
         "m_RecommendedByOccupations": [
-          "!bp_00b183680643424abe015263aac81c5b"
+          "!bp_d840a5dc947546e0b4ac939287191fd8",
+          "!bp_4b908491051a4f36b9703b95e048a5a3"
         ]
       },
       {
@@ -286,7 +285,7 @@
         },
         "m_Overrides": [],
         "m_Facts": [
-          "!bp_2c6018eaf7c2413cbeac6f946fc5ad2d"
+          "!bp_03cc803dc3244a5aa3bca8315844f496"
         ],
         "Dummy": null,
         "DoNotRestoreMissingFacts": false,
@@ -312,9 +311,9 @@
       "Shared": null
     },
     "m_Icon": {
-		"guid": "3259935027489ad489401087351bffb3",
-		"fileid": 21300000
-	},
+      "guid": "3259935027489ad489401087351bffb3",
+      "fileid": 21300000
+    },
     "m_AllowNonContextActions": false,
     "HideInUI": false,
     "HideInCharacterSheetAndLevelUp": false,
@@ -442,9 +441,18 @@
       }
     ],
     "Tier": "One",
-    "InProgressIcon": null,
-    "FinishedIcon": null,
-    "NotAvailableIcon": null,
+    "InProgressIcon": {
+      "guid": "3259935027489ad489401087351bffb3",
+      "fileid": 21300000
+    },
+    "FinishedIcon": {
+      "guid": "3259935027489ad489401087351bffb3",
+      "fileid": 21300000
+    },
+    "NotAvailableIcon": {
+      "guid": "3259935027489ad489401087351bffb3",
+      "fileid": 21300000
+    },
     "IsHunter": false,
     "m_DlcReward": null
   },

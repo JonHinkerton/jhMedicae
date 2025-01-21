@@ -14,7 +14,7 @@
           "name": ""
         },
         "m_Overrides": [],
-        "NewStat": "SkillMedicae",
+        "NewStat": "SkillCarouse",
         "ReplaceStrengthForMeleeDamage": true,
         "ReplaceIntelligenceForRangedAreaDamage": false
       },
@@ -50,7 +50,7 @@
     "m_Icon": null,
     "m_AllowNonContextActions": false,
     "HideInUI": false,
-    "HideInCharacterSheetAndLevelUp": true,
+    "HideInCharacterSheetAndLevelUp": false,
     "HideNotAvailibleInUI": false,
     "Ranks": 1,
     "Prerequisites": {

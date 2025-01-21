@@ -24,12 +24,20 @@
     "m_Icon": null,
     "m_AllowNonContextActions": false,
     "HideInUI": false,
-    "HideInCharacterSheetAndLevelUp": true,
+    "HideInCharacterSheetAndLevelUp": false,
     "HideNotAvailibleInUI": false,
     "Ranks": 1,
     "Prerequisites": {
       "Composition": "And",
-      "List": []
+      "List": [
+        {
+          "$type": "40a1bdb738834fb69a296a2677235b35, PrerequisiteFact",
+          "name": "$PrerequisiteFact$e5b3a1f8608b48d68dae32324db88ca4",
+          "Not": false,
+          "m_Fact": "!bp_372f0ec0169940f08c710d2ff2159a26",
+          "MinRank": 0
+        }
+      ]
     },
     "FeatureTypes": [
       "Universal",

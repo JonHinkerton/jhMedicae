@@ -24,20 +24,28 @@
     "m_Icon": null,
     "m_AllowNonContextActions": false,
     "HideInUI": false,
-    "HideInCharacterSheetAndLevelUp": true,
+    "HideInCharacterSheetAndLevelUp": false,
     "HideNotAvailibleInUI": false,
     "Ranks": 1,
     "Prerequisites": {
       "Composition": "And",
-      "List": []
+      "List": [
+        {
+          "$type": "40a1bdb738834fb69a296a2677235b35, PrerequisiteFact",
+          "name": "$PrerequisiteFact$8e6994c95ee246ae87332c21c79657c0",
+          "Not": false,
+          "m_Fact": "!bp_71ccbfb5dff94161939de196ce0f3f6f",
+          "MinRank": 0
+        }
+      ]
     },
     "FeatureTypes": [
       "Universal",
       "Archetype"
     ],
     "TalentIconInfo": {
-      "AllGroups": "MP",
-      "MainGroup": "MP"
+      "AllGroups": "DoT",
+      "MainGroup": "DoT"
     },
     "m_Acronym": {
       "m_Key": "",

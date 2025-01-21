@@ -83,7 +83,10 @@
       "m_JsonPath": "",
       "Shared": null
     },
-    "m_Icon": null,
+    "m_Icon": {
+		"guid": "c0c4c8d12d88a2048967ae7e9186c704",
+		"fileid": 21300000
+	},
     "m_AllowNonContextActions": false,
     "HideInUI": false,
     "HideInCharacterSheetAndLevelUp": false,

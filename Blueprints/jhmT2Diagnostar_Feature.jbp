@@ -4,22 +4,7 @@
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
     "PrototypeLink": "",
     "m_Overrides": [],
-    "Components": [
-      {
-        "$type": "abc6ff48520749c0b4d161484dd6486f, ReplaceStatAttribute",
-        "name": "$ReplaceStatAttribute$27cfd155-3664-4fbf-999a-d1fdf9b374aa",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "m_OriginalStat": "WarhammerPerception",
-        "m_NewAttribute": "WarhammerIntelligence",
-        "m_OnlyIfHigher": true,
-        "m_PreviousAttributeToCompare": "WarhammerPerception"
-      }
-    ],
+    "Components": [],
     "Author": "Unknown",
     "Comment": "",
     "m_DisplayName": {
@@ -39,7 +24,7 @@
     "m_Icon": null,
     "m_AllowNonContextActions": false,
     "HideInUI": false,
-    "HideInCharacterSheetAndLevelUp": true,
+    "HideInCharacterSheetAndLevelUp": false,
     "HideNotAvailibleInUI": false,
     "Ranks": 1,
     "Prerequisites": {
@@ -51,8 +36,8 @@
       "Archetype"
     ],
     "TalentIconInfo": {
-      "AllGroups": "CharacteristicBonus",
-      "MainGroup": "CharacteristicBonus"
+      "AllGroups": "HealWound",
+      "MainGroup": "HealWound"
     },
     "m_Acronym": {
       "m_Key": "",

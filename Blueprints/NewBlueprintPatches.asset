@@ -14,8 +14,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Entries:
   - Guid: 45181a40472441a8904a5282f83693f4
-    Filename: CustomCharacterChargenPath
+    Filename: CustomCharacterChargenPath.patch
     PatchType: 2
   - Guid: e9215686ca994c3a8fd2558b9e91c649
-    Filename: NewCompanion_CustomCharacterChargenPath
+    Filename: NewCompanion_CustomCharacterChargenPath.patch
+    PatchType: 2
+  - Guid: 2d77316c72b9ed44f888ceefc2a131f6
+    Filename: BlueprintRoot.patch
+    PatchType: 2
+  - Guid: d6c0498a227040c891e4e2703eb55c13
+    Filename: Executioner_CareerPath.patch
+    PatchType: 2
+  - Guid: 7b90955673a54136be9c11743943fdfe
+    Filename: AssassinCareerPath.patch
+    PatchType: 2
+  - Guid: 604fa184d7d944c8ae5965f9700782b5
+    Filename: TacticianCareerPath.patch
+    PatchType: 2
+  - Guid: bcefe9c41c7841c9a99b1dbac1793025
+    Filename: AscensionCareerPath.patch
     PatchType: 2

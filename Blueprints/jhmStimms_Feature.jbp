@@ -15,7 +15,7 @@
         },
         "m_Overrides": [],
         "m_Facts": [
-          "!bp_9b09708aa0c244a6bc4a8e46d69c5884"
+          "!bp_b17f169b21ba4b31bee3eb3769040795"
         ],
         "Dummy": null,
         "DoNotRestoreMissingFacts": false,
@@ -41,9 +41,9 @@
       "Shared": null
     },
     "m_Icon": {
-		"guid": "6e17e5860571aa84cbac9cdeb57b1398",
-		"fileid": 21300000
-	},
+      "guid": "6e17e5860571aa84cbac9cdeb57b1398",
+      "fileid": 21300000
+    },
     "m_AllowNonContextActions": false,
     "HideInUI": false,
     "HideInCharacterSheetAndLevelUp": true,

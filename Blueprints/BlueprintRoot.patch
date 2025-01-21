@@ -1,0 +1,37 @@
+{
+  "Progression": {
+    "m_CareerPaths": [
+      {
+        "PatchType": "Insert",
+        "NewElement": "!bp_3d9d2472a8a843dcbf90f182e8e623bd",
+        "InsertAfterTarget": "!bp_dd6948ee596346a69733d0bb107c2f42"
+      }
+    ]
+  },
+  "LocalizedTexts": {
+    "LockedContainer": {
+      "m_OwnerString": "10fef14fb5974f3b80faec82e4caf43d"
+    },
+    "UnlockedContainer": {
+      "m_OwnerString": "10fef14fb5974f3b80faec82e4caf43d"
+    },
+    "LockedwithKey": {
+      "m_OwnerString": "10fef14fb5974f3b80faec82e4caf43d"
+    },
+    "UnlockedWithKey": {
+      "m_OwnerString": "10fef14fb5974f3b80faec82e4caf43d"
+    },
+    "TrapCanNotBeDisarmedDirectly": {
+      "m_OwnerString": "10fef14fb5974f3b80faec82e4caf43d"
+    },
+    "NeedSupplyPrefix": {
+      "m_OwnerString": "10fef14fb5974f3b80faec82e4caf43d"
+    },
+    "AccessDenied": {
+      "m_OwnerString": "10fef14fb5974f3b80faec82e4caf43d"
+    },
+    "AccessReceived": {
+      "m_OwnerString": "10fef14fb5974f3b80faec82e4caf43d"
+    }
+  }
+}

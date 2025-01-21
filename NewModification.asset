@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Manifest:
     UniqueName: jhMedicae
-    Version: 0.1
+    Version: 1.0
     DisplayName: Medicae Archetype
     Description: A new archetype focussed on healing and party buffs
     Author: jonhinkerton

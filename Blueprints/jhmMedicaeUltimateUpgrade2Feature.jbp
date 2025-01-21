@@ -7,7 +7,7 @@
     "Components": [
       {
         "$type": "66e032e5cf38801428940a1a0d14b946, AbilityEffectRunAction",
-        "name": "$AbilityEffectRunAction$dd62fc44-d9cb-4088-a83f-c8ca1d4794c1",
+        "name": "$AbilityEffectRunAction$272d4a0b-a600-44b7-833f-c263a856eb01",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -18,14 +18,15 @@
         "Actions": {
           "Actions": [
             {
-              "$type": "633639d7e81b7d1499298b189b6f18b3, PartyUnits",
-              "name": "$PartyUnits$689d147f-e3d0-4e60-85cd-1c903902679d",
-              "m_UnitsList": "PartyCharacters",
+              "$type": "7b1d3a11c0f4426a8584738997ebc207, ContextActionOnAllUnitsInCombat",
+              "name": "$ContextActionOnAllUnitsInCombat$ecdd26b3-9cb4-44d3-b017-3420010c174e",
+              "OnlyEnemies": false,
+              "OnlyAllies": false,
               "Actions": {
                 "Actions": [
                   {
                     "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
-                    "name": "$ContextActionApplyBuff$da7b27771efb41788e7eeda63834966e",
+                    "name": "$ContextActionApplyBuff$586cf76d97364a7a8709bfa26cebbcca",
                     "m_Buff": "!bp_cb4f58980b5547e398abd2c40ab009be",
                     "BuffEndCondition": "CombatEnd",
                     "Permanent": false,
@@ -70,7 +71,15 @@
                     "AddFactSource": false
                   }
                 ]
-              }
+              },
+              "OnlyParty": true,
+              "m_FilterNoFacts": [],
+              "m_FilterHaveAnyFact": [],
+              "ActionsOnRandomTarget": false,
+              "NotCaster": true,
+              "OnlyVisible": false,
+              "OnlyNotVisible": false,
+              "IncludeDead": false
             }
           ]
         }
@@ -92,7 +101,10 @@
       "m_JsonPath": "",
       "Shared": null
     },
-    "m_Icon": null,
+    "m_Icon": {
+      "guid": "c0c4c8d12d88a2048967ae7e9186c704",
+      "fileid": 21300000
+    },
     "m_AllowNonContextActions": false,
     "HideInUI": false,
     "HideInCharacterSheetAndLevelUp": false,

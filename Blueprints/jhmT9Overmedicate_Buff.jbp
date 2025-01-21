@@ -17,7 +17,7 @@
         "Name": "Value1",
         "SaveToContext": "No",
         "Value": {
-          "Operation": "Sum",
+          "Operation": "Div",
           "TargetType": "CurrentEntity",
           "FailSilentlyIfNoTarget": false,
           "Getters": [
@@ -25,7 +25,7 @@
               "$type": "fd03f97ef3d1416d9a95f874454886d9, SimplePropertyGetter",
               "name": "$SimplePropertyGetter$fa55aa6d-aea8-4ac4-8076-a20eb55b3a9a",
               "Settings": {
-                "Progression": "BonusValue",
+                "Progression": "AsIs",
                 "m_CustomProgression": [],
                 "m_StartLevel": 0,
                 "m_StepLevel": 0,
@@ -35,6 +35,29 @@
                 "Max": 0
               },
               "Property": "SkillMedicae"
+            },
+            {
+              "$type": "71959818449d4891939b89c19a6d9a91, ContextValueGetter",
+              "name": "$ContextValueGetter$0bf301cb901e4d09b2940463d5663a9e",
+              "Settings": {
+                "Progression": "AsIs",
+                "m_CustomProgression": [],
+                "m_StartLevel": 0,
+                "m_StepLevel": 0,
+                "Negate": false,
+                "Limit": "None",
+                "Min": 0,
+                "Max": 0
+              },
+              "Value": {
+                "ValueType": "Simple",
+                "Value": 10,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "None",
+                "m_CustomProperty": null,
+                "PropertyName": "Value1"
+              }
             }
           ]
         }
@@ -89,7 +112,7 @@
     "Stacking": "Replace",
     "ProlongWhenRankAdded": false,
     "PriorityProperty": "Value1",
-    "Initiative": "ByCaster",
+    "Initiative": "ByOwner",
     "Ranks": 0,
     "FxOnStart": {
       "AssetId": ""

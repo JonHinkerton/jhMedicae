@@ -17,18 +17,18 @@
         "Name": "Value1",
         "SaveToContext": "No",
         "Value": {
-          "Operation": "Sum",
+          "Operation": "Div",
           "TargetType": "CurrentEntity",
           "FailSilentlyIfNoTarget": false,
           "Getters": [
             {
               "$type": "fd03f97ef3d1416d9a95f874454886d9, SimplePropertyGetter",
-              "name": "$SimplePropertyGetter$4a6d17fccb794737a1f32e74bcca432e",
+              "name": "$SimplePropertyGetter$f9b7573eb57e45879f5ea168bcaed943",
               "Settings": {
-                "Progression": "BonusValue",
+                "Progression": "AsIs",
                 "m_CustomProgression": [],
                 "m_StartLevel": 0,
-                "m_StepLevel": 0,
+                "m_StepLevel": 5,
                 "Negate": false,
                 "Limit": "None",
                 "Min": 0,
@@ -37,10 +37,10 @@
               "Property": "SkillMedicae"
             },
             {
-              "$type": "fd03f97ef3d1416d9a95f874454886d9, SimplePropertyGetter",
-              "name": "$SimplePropertyGetter$1f9e13b739ee4ef0bdfec08387d11f45",
+              "$type": "71959818449d4891939b89c19a6d9a91, ContextValueGetter",
+              "name": "$ContextValueGetter$c8ff1095aafd4f6b832f9654b7efa614",
               "Settings": {
-                "Progression": "BonusValue",
+                "Progression": "AsIs",
                 "m_CustomProgression": [],
                 "m_StartLevel": 0,
                 "m_StepLevel": 0,
@@ -49,7 +49,15 @@
                 "Min": 0,
                 "Max": 0
               },
-              "Property": "SkillMedicae"
+              "Value": {
+                "ValueType": "Simple",
+                "Value": 10,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "None",
+                "m_CustomProperty": null,
+                "PropertyName": "Value1"
+              }
             }
           ]
         }
@@ -173,105 +181,6 @@
         "Descriptor": "None",
         "Stat": "WarhammerPerception",
         "Multiplier": 1,
-        "Value": {
-          "ValueType": "CasterNamedProperty",
-          "Value": 0,
-          "ValueRank": "Default",
-          "ValueShared": "Damage",
-          "Property": "None",
-          "m_CustomProperty": null,
-          "PropertyName": "Value1"
-        },
-        "m_ActionsOnAdd": {
-          "Actions": []
-        }
-      },
-      {
-        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
-        "name": "$AddContextStatBonus$f7a92d5c-df26-44df-a6be-f1266b0129bd",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "Restrictions": {
-          "Property": {
-            "Operation": "Sum",
-            "TargetType": "CurrentEntity",
-            "FailSilentlyIfNoTarget": false,
-            "Getters": []
-          }
-        },
-        "Descriptor": "None",
-        "Stat": "WarhammerIntelligence",
-        "Multiplier": -1,
-        "Value": {
-          "ValueType": "CasterNamedProperty",
-          "Value": 0,
-          "ValueRank": "Default",
-          "ValueShared": "Damage",
-          "Property": "None",
-          "m_CustomProperty": null,
-          "PropertyName": "Value1"
-        },
-        "m_ActionsOnAdd": {
-          "Actions": []
-        }
-      },
-      {
-        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
-        "name": "$AddContextStatBonus$40342757-3173-4f62-8fe4-9b284f465b80",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "Restrictions": {
-          "Property": {
-            "Operation": "Sum",
-            "TargetType": "CurrentEntity",
-            "FailSilentlyIfNoTarget": false,
-            "Getters": []
-          }
-        },
-        "Descriptor": "None",
-        "Stat": "WarhammerWillpower",
-        "Multiplier": -1,
-        "Value": {
-          "ValueType": "CasterNamedProperty",
-          "Value": 0,
-          "ValueRank": "Default",
-          "ValueShared": "Damage",
-          "Property": "None",
-          "m_CustomProperty": null,
-          "PropertyName": "Value1"
-        },
-        "m_ActionsOnAdd": {
-          "Actions": []
-        }
-      },
-      {
-        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
-        "name": "$AddContextStatBonus$2df8241a-5d12-4318-9e54-9aa0d0917a05",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "Restrictions": {
-          "Property": {
-            "Operation": "Sum",
-            "TargetType": "CurrentEntity",
-            "FailSilentlyIfNoTarget": false,
-            "Getters": []
-          }
-        },
-        "Descriptor": "None",
-        "Stat": "WarhammerFellowship",
-        "Multiplier": -1,
         "Value": {
           "ValueType": "CasterNamedProperty",
           "Value": 0,

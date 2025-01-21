@@ -367,7 +367,7 @@
     "Range": "Custom",
     "CustomRange": 1,
     "MinRange": 0,
-    "ActionPointCost": 3,
+    "ActionPointCost": 2,
     "AbilityParamsSource": "None",
     "PsychicPower": "Minor",
     "VeilThicknessPointsToAdd": 1,
