@@ -160,39 +160,6 @@
         "m_ActionsOnAdd": {
           "Actions": []
         }
-      },
-      {
-        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
-        "name": "$AddContextStatBonus$7638e856-f275-46c4-bbe8-464c25464d1d",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "Restrictions": {
-          "Property": {
-            "Operation": "Sum",
-            "TargetType": "CurrentEntity",
-            "FailSilentlyIfNoTarget": false,
-            "Getters": []
-          }
-        },
-        "Descriptor": "None",
-        "Stat": "WarhammerPerception",
-        "Multiplier": 1,
-        "Value": {
-          "ValueType": "CasterNamedProperty",
-          "Value": 0,
-          "ValueRank": "Default",
-          "ValueShared": "Damage",
-          "Property": "None",
-          "m_CustomProperty": null,
-          "PropertyName": "Value1"
-        },
-        "m_ActionsOnAdd": {
-          "Actions": []
-        }
       }
     ],
     "Author": "Unknown",

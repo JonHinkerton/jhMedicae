@@ -18,6 +18,10 @@
         "Actions": {
           "Actions": [
             {
+              "$type": "2ebf85d8c73645194a2e4fe6bb27a3bb, MoveServoSkullToAbilityTarget",
+              "name": "$MoveServoSkullToAbilityTarget$565470a6cf894d6f8dd9997346cb504a"
+            },
+            {
               "$type": "8abf85d8c6ea04343a2e4fe6bb27a3bb, ContextActionHealTarget",
               "name": "$ContextActionHealTarget$7b1ba03eddb64a6abe34614378361685",
               "UseMinMaxValues": false,

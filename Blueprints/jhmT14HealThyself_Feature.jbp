@@ -21,8 +21,8 @@
             "FailSilentlyIfNoTarget": false,
             "Getters": [
               {
-                "$type": "976625711af845a4fa4b9c6cd63d5193, CheckPropertyTargetTypeGetter",
-                "name": "$CheckPropertyTargetTypeGetter$ff471814cf34477588db1dd2f2161f62",
+                "$type": "531885d8c73645194a8765e6bb27a3bb, CheckCasterIsTarget",
+                "name": "$CheckCasterIsTarget$b081fb1524cb4a2e8db4ee0dedbb621a",
                 "Settings": {
                   "Progression": "AsIs",
                   "m_CustomProgression": [],
@@ -32,8 +32,7 @@
                   "Limit": "None",
                   "Min": 0,
                   "Max": 0
-                },
-                "Target": "ContextCaster"
+                }
               }
             ]
           }
