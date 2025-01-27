@@ -1,1 +1,208 @@
-{"strings":{"a239a8df-9d4f-46b7-833d-8889b883b23d":{"Offset":0,"Text":"<u>(3 + bonificación por {g|Encyclopedia:WarhammerAgility}AGI{/g} del {g|Encyclopedia:CareerVeteranGlossary}Archimilitante{/g})</u>"}}}
+{
+    "strings": {
+        "60436fb4-dd59-4af2-88a7-374b6468ba9e": {
+            "Text": "Medicae"
+        },
+        "73fa5e48-6051-43f8-8341-993ec9c29392": {
+            "Text": "Las vidas se gastan libremente en los campos de batalla del Imperio, pero no se desperdician. Un soldado que puede volver a levantar su láser es más valioso que uno desangrándose en el barro. Atender las heridas supervivientes y aliviar a aquellos cuyas heridas no lo son, es la tarea de los Medicae. Estos cirujanos de campo decididos llevan un arsenal de tratamientos para heridas y drogas de combate cuyo único propósito es devolver a los soldados a la línea de fuego - los resultados a largo plazo están fuera de su alcance."
+        },
+        "8727793d-be2e-4aea-a5c0-d0284ddd47a2": {
+            "Text": "Medicina de Campo"
+        },
+        "f0dcfaba-a9f0-4541-8f0b-6e93260b66ee": {
+            "Text": "El medicae sana a un aliado adyacente por (Medicae/4)+(Medicae/10) heridas. Esta habilidad también elimina sangrado, quemaduras, y toxinas, y cura una herida reciente."
+        },
+        "634067d8-9827-43c4-a189-da074929c584": {
+            "Text": "Reanimar"
+        },
+        "a9dc0584-1581-4871-837e-3d7eabe0001e": {
+            "Text": "Un aliado adyacente caído es devuelto a la acción con el 10% de sus heridas máximas."
+        },
+        "30745d46-8364-4b20-9973-f14c2dbc43a3": {
+            "Text": "Cráneo Servo del Apotecario"
+        },
+        "44cfb36b-b25a-4b68-a7ab-1cdc6fd56a2d": {
+            "Text": "Este cráneo servo puede sanar a cualquier aliado dentro de 6 celdas por (Medicae/4)+(Uso Técnico/10) heridas."
+        },
+        "fe35c7e8-c11a-4b99-a173-d542ba182724": {
+            "Text": "Al Rescate"
+        },
+        "86e88282-b13e-4d53-89e8-4761db2c0f1b": {
+            "Text": "El medicae puede moverse hasta 3 + resolución celdas. Termina el movimiento para el turno."
+        },
+        "725f7d4a-af6e-4a87-b262-b95a91a15665": {
+            "Text": "Evacuación Médica"
+        },
+        "59178786-c25e-43e4-9b88-28392d999e3d": {
+            "Text": "Un aliado hasta 6 celdas de distancia se mueve a la celda adyacente más cercana."
+        },
+        "ec216a29-dd8e-4611-aa4f-108eca553243": {
+            "Text": "Drogas de Combate"
+        },
+        "2a85eb96-bb1b-4fe7-b20f-798a9d9c5eaa": {
+            "Text": "Esta habilidad añade el 20% de la habilidad médica del medicae a la Fuerza, Resistencia, y Agilidad del objetivo durante 2 turnos."
+        },
+        "91f37709-0d5d-47c2-b8fb-264e344b4c6a": {
+            "Text": "La Paz del Emperador"
+        },
+        "b1edd962-56b3-478f-8ffd-7101317c6bdf": {
+            "Text": "El medicae puede infligir daño mortal a un enemigo incapacitado adyacente (uno que está aturdido o no puede actuar)."
+        },
+        "944c7d9a-9bf3-4ad4-a35a-3813d0032443": {
+            "Text": "Triaje"
+        },
+        "35186455-991c-46c0-a5f4-7c995f3a881b": {
+            "Text": "Esta habilidad sana a todos los aliados el 50% de sus heridas máximas."
+        },
+        "7b4c20a2-e516-4039-afd1-6b6021e6d674": {
+            "Text": "Triaje"
+        },
+        "9866dd54-0275-49fa-9d9a-67c99ef0ae11": {
+            "Text": "Esta habilidad sana a todos los aliados el 50% de sus heridas máximas, pero el medicae recibe daño igual al 50% de sus heridas máximas."
+        },
+        "6ccf612e-83be-4bdd-86d2-73db44911448": {
+            "Text": "Triaje (Mejora 1)"
+        },
+        "55dc828e-63f8-4678-8a3f-73676be5c25d": {
+            "Text": "En cambio, todos los aliados se sanan completamente."
+        },
+        "dcfa3425-df82-4897-81a6-84d3f1b270c4": {
+            "Text": "Triaje (Mejora 2)"
+        },
+        "5a0b11e6-f7d7-4a58-8184-2a0a4c531acf": {
+            "Text": "Los aliados objetivo de Triaje son inmunes a heridas mortales por un turno."
+        },
+        "e31ab3a8-3858-4acb-b2c0-adf8fca280dc": {
+            "Text": "Triaje (Mejora 3)"
+        },
+        "645a45e3-0174-49b0-8b95-1bacab1c4ba2": {
+            "Text": "Triaje también elimina quemaduras, sangrados y toxinas de los aliados."
+        },
+        "243c7eb1-6120-4484-8f74-3ba138be87f3": {
+            "Text": "Triaje (Mejora 4)"
+        },
+        "ad2e24ee-5d6a-4ea3-ba7a-c56a6246e49d": {
+            "Text": "Triaje añade un aumento del 10% a la habilidad médica del medicae para el resto del combate."
+        },
+        "a8666f4c-6b98-4e9a-86d9-9996a28f3d9f": {
+            "Text": "Bien Provisto"
+        },
+        "ce5ada95-dabc-413d-a1cd-7c28ee45fef4": {
+            "Text": "El medicae tiene un 50% de probabilidad de no usar una carga al utilizar un botiquín."
+        },
+        "1f67e1e5-bad8-4154-b091-a691ffc37599": {
+            "Text": "Diagnóstico"
+        },
+        "6ec0424d-dd91-422a-a232-a300bcce636e": {
+            "Text": "Medicina de Campo sana un 5% adicional por punto en el objetivo."
+        },
+        "2a6b81c3-88df-4048-83f3-374b648f5ae5": {
+            "Text": "Anatomista"
+        },
+        "a66c4390-cefa-40fc-b96c-bc93dc47667a": {
+            "Text": "El medicae gana un bono de habilidad médica/5 en la probabilidad de golpe crítico con armas de cadena y armas de aguja."
+        },
+        "1467bacd-3692-4a6e-b363-555a5b439ddd": {
+            "Text": "Amputar"
+        },
+        "7a62c66b-925b-46db-9f2d-c93ec2e7e196": {
+            "Text": "Los golpes cuerpo a cuerpo con armas de cadena causan sangrado de niveles de carouse/15 al objetivo."
+        },
+        "a8d6acd2-72fd-422c-a941-3a0beb2f5936": {
+            "Text": "Sierra de Huesos"
+        },
+        "7428ad04-2b28-4ee7-b9a6-3add68598fc7": {
+            "Text": "El bono de daño con armas de cadena se basa en la habilidad de carouse en lugar de la fuerza."
+        },
+        "8c80cf4e-64c2-48c3-9840-9caf727eadce": {
+            "Text": "Cráneo Servo Precioso"
+        },
+        "8f4f3500-fda1-4b7e-8675-732c751187c3": {
+            "Text": "El Cráneo Servo del Apotecario puede usarse en aliados hasta a 10 celdas de distancia."
+        },
+        "f841a10e-55be-4d56-ae6d-43dc18897538": {
+            "Text": "Mantenerse Bajo"
+        },
+        "5b25c69f-011d-4ff3-a8f3-c6d7a49fa681": {
+            "Text": "Usar Al Rescate hace que el medicae sea el objetivo de menor prioridad durante un turno."
+        },
+        "8e2d4b87-85b3-4b1a-91fb-7f9ca7f2867f": {
+            "Text": "Reanimador"
+        },
+        "1782299a-48e4-4e92-8dcb-3f506899c6d2": {
+            "Text": "El objetivo de Reanimar gana un adicional del 10% de las heridas de habilidad médica del medicae."
+        },
+        "1360a713-6e5e-4ac6-bec6-5809463cb6f1": {
+            "Text": "Sobremedicación"
+        },
+        "d21a75bc-d75c-40fb-b9b3-eccda7c4f9dc": {
+            "Text": "El objetivo de Medicina de Campo gana heridas temporales adicionales igual a la habilidad médica/10 del medicae además de la sanación normal."
+        },
+        "eb1d50f6-fc59-4b40-b9a9-90992cc4347f": {
+            "Text": "Inmunizar"
+        },
+        "8fa1dc5a-3cd7-4dd7-85f2-bb3e29c25a45": {
+            "Text": "El objetivo de Drogas de Combate gana +10 en todas las resistencias durante 2 rondas."
+        },
+        "f3fc8e16-f668-47f8-9212-b57d18b84b2b": {
+            "Text": "Cirujano"
+        },
+        "375fb387-9404-4d51-bd81-b1281d6b2e7a": {
+            "Text": "Medicina de Campo tiene una oportunidad de curar una lesión en el objetivo."
+        },
+        "5d1e5de1-c2b5-4bb3-91f1-037e96f1d2bb": {
+            "Text": "Cráneo Servo Vicioso"
+        },
+        "3aa4cdd3-9ed6-408b-8c40-ee8d2f6f2f2b": {
+            "Text": "El Cráneo Servo del Apotecario inflige 5 niveles de sangrado a un objetivo aleatorio adyacente al aliado siendo sanado."
+        },
+        "3b3dd8c9-a4a7-4430-90a0-817010b9c79f": {
+            "Text": "Mala Medicina"
+        },
+        "907ab6f0-f8ef-4011-a059-6b15c8919fe9": {
+            "Text": "Los ataques exitosos con armas de aguja añaden pilas de toxina adicionales iguales al 10% de la habilidad médica del medicae."
+        },
+        "27ffd9d5-686e-4cf6-aae2-e0b233bdc3c3": {
+            "Text": "Médico, cúrate a ti mismo"
+        },
+        "009bdaad-0691-4e12-aaf8-3cdaa43cb624": {
+            "Text": "Cuando el medicae usa una habilidad de sanación, gana heridas igual a medicae/5."
+        },
+        "ab434338-35af-4964-84a2-8611bcbad083": {
+            "Text": "Primer Respondiente"
+        },
+        "cd76dcd7-6480-4b28-91d8-16b0a69b52fb": {
+            "Text": "El medicae añade su bono de percepción a las tiradas de iniciativa."
+        },
+        "c23e8b2b-66f8-4b7a-87c8-8ab3a37789a2": {
+            "Text": "Injertador de Synpiel"
+        },
+        "c27f8746-3aa6-4582-86cc-0133037f5c70": {
+            "Text": "Los aliados sanados con Medicina de Campo ganan un 5% a la armadura por el resto del combate."
+        },
+        "d63858c4-2fb1-48a0-81d6-30a17f354a2d": {
+            "Text": "La Ayuda Está en Camino"
+        },
+        "b4f064f3-ec75-4dd6-9137-d594e77e7b12": {
+            "Text": "Usar Al Rescate no provoca ataques de oportunidad de oponentes adyacentes."
+        },
+        "cdb07f43-b759-49c1-8726-b4ecc1064607": {
+            "Text": "Ahora o Nunca"
+        },
+        "40d4babc-c800-4bbd-a69d-5d07f1322ba2": {
+            "Text": "La habilidad médica del medicae se incrementa en un 10% cuando el impulso está por debajo del 50."
+        },
+        "1a15ba15-98b1-4960-8d4f-9eefb8d89ba4": {
+            "Text": "Veterano de Combate"
+        },
+        "7ad5b5ee-fdde-4b2c-98f5-5fda80bf7037": {
+            "Text": "Aumenta la resolución del medicae por el número de habilidades médicas conocidas."
+        },
+        "f5d40d80-2eac-4053-bec7-48da3ba847d7": {
+            "Text": ""
+        },
+        "5f4f96c0-e57c-4f04-8291-d867a04c44ee": {
+            "Text": ""
+        }
+    }
+}

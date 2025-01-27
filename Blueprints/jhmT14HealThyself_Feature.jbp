@@ -4,54 +4,7 @@
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
     "PrototypeLink": "",
     "m_Overrides": [],
-    "Components": [
-      {
-        "$type": "18beb8746b848f6448d3ee6969a32467, WarhammerOverrideAbilityApCost",
-        "name": "$WarhammerOverrideAbilityApCost$6db0e9f5-8d2e-49e3-843e-70ac996a7b15",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "Restrictions": {
-          "Property": {
-            "Operation": "Sum",
-            "TargetType": "CurrentEntity",
-            "FailSilentlyIfNoTarget": false,
-            "Getters": [
-              {
-                "$type": "531885d8c73645194a8765e6bb27a3bb, CheckCasterIsTarget",
-                "name": "$CheckCasterIsTarget$b081fb1524cb4a2e8db4ee0dedbb621a",
-                "Settings": {
-                  "Progression": "AsIs",
-                  "m_CustomProgression": [],
-                  "m_StartLevel": 0,
-                  "m_StepLevel": 0,
-                  "Negate": false,
-                  "Limit": "None",
-                  "Min": 0,
-                  "Max": 0
-                }
-              }
-            ]
-          }
-        },
-        "m_overrideMode": "DefaultCost",
-        "m_newCost": 1,
-        "m_costBonus": 0,
-        "m_costMinimum": -1,
-        "m_Ability": "!bp_954de4736ffc4adaac13aaf20ea7c94f",
-        "m_AffectedGroup": null,
-        "m_AbilityGroupList": [],
-        "NotSelectedGroup": false,
-        "AffectOnlyMelee": false,
-        "AffectOnlyRanged": false,
-        "AffectOnlyAoE": false,
-        "AffectOnlyBurst": false,
-        "AffectOnlyHeavy": false
-      }
-    ],
+    "Components": [],
     "Author": "Unknown",
     "Comment": "",
     "m_DisplayName": {

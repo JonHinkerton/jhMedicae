@@ -1,1 +1,208 @@
-{"strings":{"a239a8df-9d4f-46b7-833d-8889b883b23d":{"Offset":0,"Text":"<u>(3 +bonus d'{g|Encyclopedia:WarhammerAgility}AGI{/g} de l'{g|Encyclopedia:CareerVeteranGlossary}archimilitant{/g})</u>"}}}
+{
+    "strings": {
+        "60436fb4-dd59-4af2-88a7-374b6468ba9e": {
+            "Text": "Médicat"
+        },
+        "73fa5e48-6051-43f8-8341-993ec9c29392": {
+            "Text": "Les vies sont dépensées librement sur les champs de bataille de l'Imperium, mais elles ne sont pas gaspillées. Un soldat capable de reprendre son fusil laser est plus précieux qu'un autre agonisant dans la boue. Soigner les blessures survivables et soulager ceux dont les plaies sont mortelles est la tâche du Médicat. Ces chirurgiens de champ de bataille déterminés portent un assortiment de traitements des plaies et de drogues de combat dont le seul but est de renvoyer les soldats au front - les conséquences à long terme ne sont pas de leur ressort."
+        },
+        "8727793d-be2e-4aea-a5c0-d0284ddd47a2": {
+            "Text": "Médecine de Champ"
+        },
+        "f0dcfaba-a9f0-4541-8f0b-6e93260b66ee": {
+            "Text": "Le médicat soigne un allié adjacent pour (Médicat/4)+(Médicat/10) blessures. Cette capacité élimine également les saignements, les brûlures et les toxines, et guérit une blessure récente."
+        },
+        "634067d8-9827-43c4-a189-da074929c584": {
+            "Text": "Réanimer"
+        },
+        "a9dc0584-1581-4871-837e-3d7eabe0001e": {
+            "Text": "Un allié à terre adjacent est remis en action avec 10% de ses blessures maximales."
+        },
+        "30745d46-8364-4b20-9973-f14c2dbc43a3": {
+            "Text": "Servocrâne d'Apothicarion"
+        },
+        "44cfb36b-b25a-4b68-a7ab-1cdc6fd56a2d": {
+            "Text": "Ce servocrâne peut soigner n'importe quel allié à moins de 6 cellules pour (Médicat/4)+(Utilisation Tech/10) blessures."
+        },
+        "fe35c7e8-c11a-4b99-a173-d542ba182724": {
+            "Text": "Au Secours"
+        },
+        "86e88282-b13e-4d53-89e8-4761db2c0f1b": {
+            "Text": "Le médicat peut se déplacer jusqu'à 3 + résolution cellules. Termine le mouvement pour le tour."
+        },
+        "725f7d4a-af6e-4a87-b262-b95a91a15665": {
+            "Text": "Évacuation Médicale"
+        },
+        "59178786-c25e-43e4-9b88-28392d999e3d": {
+            "Text": "Un allié jusqu'à 6 cellules de distance se déplace à la cellule adjacente la plus proche."
+        },
+        "ec216a29-dd8e-4611-aa4f-108eca553243": {
+            "Text": "Drogues de Combat"
+        },
+        "2a85eb96-bb1b-4fe7-b20f-798a9d9c5eaa": {
+            "Text": "Cette capacité ajoute 20% de la compétence de médicat du médicat à la Force, la Résilience, et l'Agilité de la cible pour 2 tours."
+        },
+        "91f37709-0d5d-47c2-b8fb-264e344b4c6a": {
+            "Text": "La Paix de l'Empereur"
+        },
+        "b1edd962-56b3-478f-8ffd-7101317c6bdf": {
+            "Text": "Le médicat peut infliger des dommages mortels à un ennemi adjacent incapable d'agir (qui est étourdi ou incapable d'agir)."
+        },
+        "944c7d9a-9bf3-4ad4-a35a-3813d0032443": {
+            "Text": "Triage"
+        },
+        "35186455-991c-46c0-a5f4-7c995f3a881b": {
+            "Text": "Cette capacité soigne tous les alliés de 50% de leurs blessures maximales."
+        },
+        "7b4c20a2-e516-4039-afd1-6b6021e6d674": {
+            "Text": "Triage"
+        },
+        "9866dd54-0275-49fa-9d9a-67c99ef0ae11": {
+            "Text": "Cette capacité soigne tous les alliés de 50% de leurs blessures maximales, mais le médicat subit des dommages équivalents à 50% de ses propres blessures maximales."
+        },
+        "6ccf612e-83be-4bdd-86d2-73db44911448": {
+            "Text": "Triage (Amélioration 1)"
+        },
+        "55dc828e-63f8-4678-8a3f-73676be5c25d": {
+            "Text": "À la place, tous les alliés sont complètement soignés."
+        },
+        "dcfa3425-df82-4897-81a6-84d3f1b270c4": {
+            "Text": "Triage (Amélioration 2)"
+        },
+        "5a0b11e6-f7d7-4a58-8184-2a0a4c531acf": {
+            "Text": "Les alliés ciblés par Triage sont immunisés contre les blessures mortelles pendant un tour."
+        },
+        "e31ab3a8-3858-4acb-b2c0-adf8fca280dc": {
+            "Text": "Triage (Amélioration 3)"
+        },
+        "645a45e3-0174-49b0-8b95-1bacab1c4ba2": {
+            "Text": "Triage élimine également les brûlures, les saignements et les toxines chez les alliés."
+        },
+        "243c7eb1-6120-4484-8f74-3ba138be87f3": {
+            "Text": "Triage (Amélioration 4)"
+        },
+        "ad2e24ee-5d6a-4ea3-ba7a-c56a6246e49d": {
+            "Text": "Triage ajoute un bonus de 10% à la compétence de médicat du médicat pour le reste du combat."
+        },
+        "a8666f4c-6b98-4e9a-86d9-9996a28f3d9f": {
+            "Text": "Bien Approvisionné"
+        },
+        "ce5ada95-dabc-413d-a1cd-7c28ee45fef4": {
+            "Text": "Le médicat a 50% de chances de ne pas utiliser de charge lors de l'utilisation d'une trousse de secours."
+        },
+        "1f67e1e5-bad8-4154-b091-a691ffc37599": {
+            "Text": "Diagnostiqueur"
+        },
+        "6ec0424d-dd91-422a-a232-a300bcce636e": {
+            "Text": "La Médecine de Champ soigne 5% supplémentaires par point sur la cible."
+        },
+        "2a6b81c3-88df-4048-83f3-374b648f5ae5": {
+            "Text": "Anatomiste"
+        },
+        "a66c4390-cefa-40fc-b96c-bc93dc47667a": {
+            "Text": "Le médicat gagne un bonus de compétence médicat/5 sur la chance de coup critique avec des armes à chaîne et des armes à aiguille."
+        },
+        "1467bacd-3692-4a6e-b363-555a5b439ddd": {
+            "Text": "Amputer"
+        },
+        "7a62c66b-925b-46db-9f2d-c93ec2e7e196": {
+            "Text": "Les coups au corps à corps avec des armes à chaîne causent des niveaux de saignement de carouse/15 à la cible."
+        },
+        "a8d6acd2-72fd-422c-a941-3a0beb2f5936": {
+            "Text": "Scie à Os"
+        },
+        "7428ad04-2b28-4ee7-b9a6-3add68598fc7": {
+            "Text": "Le bonus de dégâts avec les armes à chaîne est basé sur la compétence de carouse au lieu de la force."
+        },
+        "8c80cf4e-64c2-48c3-9840-9caf727eadce": {
+            "Text": "Servocrâne Précoce"
+        },
+        "8f4f3500-fda1-4b7e-8675-732c751187c3": {
+            "Text": "Le Servocrâne d'Apothicarion peut être utilisé sur des alliés jusqu'à 10 cellules de distance."
+        },
+        "f841a10e-55be-4d56-ae6d-43dc18897538": {
+            "Text": "Rester Bas"
+        },
+        "5b25c69f-011d-4ff3-a8f3-c6d7a49fa681": {
+            "Text": "Utiliser Au Secours rend le médicat la cible la moins prioritaire pendant un tour."
+        },
+        "8e2d4b87-85b3-4b1a-91fb-7f9ca7f2867f": {
+            "Text": "Réanimateur"
+        },
+        "1782299a-48e4-4e92-8dcb-3f506899c6d2": {
+            "Text": "La cible de Réanimer gagne un supplément de 10% des blessures de compétence médicat du médicat."
+        },
+        "1360a713-6e5e-4ac6-bec6-5809463cb6f1": {
+            "Text": "Surdosage"
+        },
+        "d21a75bc-d75c-40fb-b9b3-eccda7c4f9dc": {
+            "Text": "La cible de Médecine de Champ gagne des blessures temporaires supplémentaires égales à médicat/10 de la compétence médicat du médicat en plus de la guérison normale."
+        },
+        "eb1d50f6-fc59-4b40-b9a9-90992cc4347f": {
+            "Text": "Inoculer"
+        },
+        "8fa1dc5a-3cd7-4dd7-85f2-bb3e29c25a45": {
+            "Text": "La cible des Drogues de Combat gagne +10 à toutes les résistances pendant 2 tours."
+        },
+        "f3fc8e16-f668-47f8-9212-b57d18b84b2b": {
+            "Text": "Chirurgien"
+        },
+        "375fb387-9404-4d51-bd81-b1281d6b2e7a": {
+            "Text": "La Médecine de Champ a une chance de guérir une blessure sur la cible."
+        },
+        "5d1e5de1-c2b5-4bb3-91f1-037e96f1d2bb": {
+            "Text": "Servocrâne Viscéral"
+        },
+        "3aa4cdd3-9ed6-408b-8c40-ee8d2f6f2f2b": {
+            "Text": "Le Servocrâne d'Apothicarion inflige 5 niveaux de saignement à une cible aléatoire adjacente à l'allié soigné."
+        },
+        "3b3dd8c9-a4a7-4430-90a0-817010b9c79f": {
+            "Text": "Mauvaise Médecine"
+        },
+        "907ab6f0-f8ef-4011-a059-6b15c8919fe9": {
+            "Text": "Les attaques réussies avec des armes à aiguille ajoutent des piles de toxines supplémentaires égales à 10% de la compétence médicat du médicat."
+        },
+        "27ffd9d5-686e-4cf6-aae2-e0b233bdc3c3": {
+            "Text": "Médecin, guéris-toi toi-même"
+        },
+        "009bdaad-0691-4e12-aaf8-3cdaa43cb624": {
+            "Text": "Lorsque le médicat utilise une capacité de soin, il gagne des blessures égales à médicat/5."
+        },
+        "ab434338-35af-4964-84a2-8611bcbad083": {
+            "Text": "Premier Intervenant"
+        },
+        "cd76dcd7-6480-4b28-91d8-16b0a69b52fb": {
+            "Text": "Le médicat ajoute son bonus de perception aux jets d'initiative."
+        },
+        "c23e8b2b-66f8-4b7a-87c8-8ab3a37789a2": {
+            "Text": "Greffe de Synpeau"
+        },
+        "c27f8746-3aa6-4582-86cc-0133037f5c70": {
+            "Text": "Les alliés soignés avec Médecine de Champ gagnent 5% à l'armure pour le reste du combat."
+        },
+        "d63858c4-2fb1-48a0-81d6-30a17f354a2d": {
+            "Text": "Les Secours Arrivent"
+        },
+        "b4f064f3-ec75-4dd6-9137-d594e77e7b12": {
+            "Text": "Utiliser Au Secours ne provoque pas d'attaques d'opportunité de la part des adversaires adjacents."
+        },
+        "cdb07f43-b759-49c1-8726-b4ecc1064607": {
+            "Text": "Maintenant ou Jamais"
+        },
+        "40d4babc-c800-4bbd-a69d-5d07f1322ba2": {
+            "Text": "La compétence médicat du médicat est augmentée de 10% lorsque le momentum est inférieur à 50."
+        },
+        "1a15ba15-98b1-4960-8d4f-9eefb8d89ba4": {
+            "Text": "Vétéran de Combat"
+        },
+        "7ad5b5ee-fdde-4b2c-98f5-5fda80bf7037": {
+            "Text": "Augmente la résolution du médicat par le nombre de capacités médicat connues."
+        },
+        "f5d40d80-2eac-4053-bec7-48da3ba847d7": {
+            "Text": ""
+        },
+        "5f4f96c0-e57c-4f04-8291-d867a04c44ee": {
+            "Text": ""
+        }
+    }
+}

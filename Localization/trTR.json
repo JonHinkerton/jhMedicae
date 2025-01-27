@@ -1,1 +1,208 @@
-{"strings":{"a239a8df-9d4f-46b7-833d-8889b883b23d":{"Offset":0,"Text":"<u>(3 + {g|Encyclopedia:CareerVeteranGlossary}Başmilitan'ın{/g} {g|Encyclopedia:WarhammerAgility}ÇEV{/g} bonusu)</u>"}}}
+{
+    "strings": {
+        "60436fb4-dd59-4af2-88a7-374b6468ba9e": {
+            "Text": "Medik"
+        },
+        "73fa5e48-6051-43f8-8341-993ec9c29392": {
+            "Text": "İmparatorluk savaş alanlarında hayatlar serbestçe harcanır, ama boşa gitmez. Lazer tüfeğini tekrar kaldırabilecek bir asker, çamurda kan kaybeden bir askerden daha değerlidir. Kurtarılabilir yaraları tedavi etmek ve yaraları kurtarılamayanlara yardım etmek mediklerin görevidir. Bu kararlı savaş alanı cerrahları, askerleri yeniden savaş hattına döndürmek amacıyla yara tedavileri ve savaş ilaçları dizisini taşır - uzun vadeli sonuçlar onların sorumluluk alanı dışındadır."
+        },
+        "8727793d-be2e-4aea-a5c0-d0284ddd47a2": {
+            "Text": "Savaş Alanı Tıbbı"
+        },
+        "f0dcfaba-a9f0-4541-8f0b-6e93260b66ee": {
+            "Text": "Medik bitişikteki bir müttefiki (Medik/4) + (Medik/10) yara için iyileştirir. Bu yetenek ayrıca kanama, yanık ve toksinleri giderir ve bir taze yarayı iyileştirir."
+        },
+        "634067d8-9827-43c4-a189-da074929c584": {
+            "Text": "Canlandırma"
+        },
+        "a9dc0584-1581-4871-837e-3d7eabe0001e": {
+            "Text": "Bitişikteki düşmüş bir müttefik, maksimum yaralarının %10'u ile tekrar harekete geçirilir."
+        },
+        "30745d46-8364-4b20-9973-f14c2dbc43a3": {
+            "Text": "Apothecarion Servo Kafatası"
+        },
+        "44cfb36b-b25a-4b68-a7ab-1cdc6fd56a2d": {
+            "Text": "Bu servo kafatası, 6 hücre içindeki herhangi bir müttefiki (Medik/4) + (Tek Kullanım/10) yara için iyileştirebilir."
+        },
+        "fe35c7e8-c11a-4b99-a173-d542ba182724": {
+            "Text": "İmdat"
+        },
+        "86e88282-b13e-4d53-89e8-4761db2c0f1b": {
+            "Text": "Medik 3 + kararlık hücresi kadar hareket edebilir. Sıra için hareketi sona erdirir."
+        },
+        "725f7d4a-af6e-4a87-b262-b95a91a15665": {
+            "Text": "Medevak"
+        },
+        "59178786-c25e-43e4-9b88-28392d999e3d": {
+            "Text": "6 hücre uzaklıktaki bir müttefik en yakın bitişik hücreye taşınır."
+        },
+        "ec216a29-dd8e-4611-aa4f-108eca553243": {
+            "Text": "Savaş İlaçları"
+        },
+        "2a85eb96-bb1b-4fe7-b20f-798a9d9c5eaa": {
+            "Text": "Bu yetenek, hedefin Güç, Dayanıklılık ve Çeviklik özelliklerine medikin medikal yeteneğinin %20'sini 2 tur boyunca ekler."
+        },
+        "91f37709-0d5d-47c2-b8fb-264e344b4c6a": {
+            "Text": "İmparator'un Barışı"
+        },
+        "b1edd962-56b3-478f-8ffd-7101317c6bdf": {
+            "Text": "Medik, hareketsiz veya hareket edemeyen bitişik bir düşmana ölümcül hasar verebilir."
+        },
+        "944c7d9a-9bf3-4ad4-a35a-3813d0032443": {
+            "Text": "Triyaj"
+        },
+        "35186455-991c-46c0-a5f4-7c995f3a881b": {
+            "Text": "Bu yetenek tüm müttefikleri maksimum yaralarının %50'si kadar iyileştirir."
+        },
+        "7b4c20a2-e516-4039-afd1-6b6021e6d674": {
+            "Text": "Triyaj"
+        },
+        "9866dd54-0275-49fa-9d9a-67c99ef0ae11": {
+            "Text": "Bu yetenek, tüm müttefikleri maksimum yaralarının %50'si kadar iyileştirir, ancak medik kendi maksimum yaralarının %50'si kadar hasar alır."
+        },
+        "6ccf612e-83be-4bdd-86d2-73db44911448": {
+            "Text": "Triyaj (Yükseltme 1)"
+        },
+        "55dc828e-63f8-4678-8a3f-73676be5c25d": {
+            "Text": "Bunun yerine, tüm müttefikler tamamen iyileştirilir."
+        },
+        "dcfa3425-df82-4897-81a6-84d3f1b270c4": {
+            "Text": "Triyaj (Yükseltme 2)"
+        },
+        "5a0b11e6-f7d7-4a58-8184-2a0a4c531acf": {
+            "Text": "Triyaj hedeflenen müttefikleri bir tur boyunca ölümcül yaralardan korur."
+        },
+        "e31ab3a8-3858-4acb-b2c0-adf8fca280dc": {
+            "Text": "Triyaj (Yükseltme 3)"
+        },
+        "645a45e3-0174-49b0-8b95-1bacab1c4ba2": {
+            "Text": "Triyaj ayrıca müttefiklerdeki yanıkları, kanamaları ve toksinleri giderir."
+        },
+        "243c7eb1-6120-4484-8f74-3ba138be87f3": {
+            "Text": "Triyaj (Yükseltme 4)"
+        },
+        "ad2e24ee-5d6a-4ea3-ba7a-c56a6246e49d": {
+            "Text": "Triyaj, savaşın geri kalanı için medikin tıbbi yeteneğine %10 ekler."
+        },
+        "a8666f4c-6b98-4e9a-86d9-9996a28f3d9f": {
+            "Text": "İyi Stoklanmış"
+        },
+        "ce5ada95-dabc-413d-a1cd-7c28ee45fef4": {
+            "Text": "Medik, tıbbi çanta kullanırken %50 şansla bir şarj harcamaz."
+        },
+        "1f67e1e5-bad8-4154-b091-a691ffc37599": {
+            "Text": "Teşhisçi"
+        },
+        "6ec0424d-dd91-422a-a232-a300bcce636e": {
+            "Text": "Saha Tıbbı, hedef üzerindeki her nokta için ek %5 iyileştirir."
+        },
+        "2a6b81c3-88df-4048-83f3-374b648f5ae5": {
+            "Text": "Anatomist"
+        },
+        "a66c4390-cefa-40fc-b96c-bc93dc47667a": {
+            "Text": "Medik, zincirli ve iğneli silahlarla kritik vuruş şansı için medikal yeteneğinin /5'ini bonus olarak alır."
+        },
+        "1467bacd-3692-4a6e-b363-555a5b439ddd": {
+            "Text": "Amputasyon"
+        },
+        "7a62c66b-925b-46db-9f2d-c93ec2e7e196": {
+            "Text": "Zincirli silahlarla yapılan yakın dövüş saldırıları, hedefte carouse/15 seviyesinde kanama yapar."
+        },
+        "a8d6acd2-72fd-422c-a941-3a0beb2f5936": {
+            "Text": "Kemik Testeresi"
+        },
+        "7428ad04-2b28-4ee7-b9a6-3add68598fc7": {
+            "Text": "Zincirli silahlarla verilen hasar bonusu, güç yerine carouse becerisine dayanır."
+        },
+        "8c80cf4e-64c2-48c3-9840-9caf727eadce": {
+            "Text": "Erken Uyarı Servo Kafatası"
+        },
+        "8f4f3500-fda1-4b7e-8675-732c751187c3": {
+            "Text": "Apothecarion Servo Kafatası, 10 hücre uzaklıktaki müttefiklere uygulanabilir."
+        },
+        "f841a10e-55be-4d56-ae6d-43dc18897538": {
+            "Text": "Alçakta Kal"
+        },
+        "5b25c69f-011d-4ff3-a8f3-c6d7a49fa681": {
+            "Text": "'İmdat'a kullanımı, bir tur boyunca mediki en düşük öncelikli hedef yapar."
+        },
+        "8e2d4b87-85b3-4b1a-91fb-7f9ca7f2867f": {
+            "Text": "Canlandırıcı"
+        },
+        "1782299a-48e4-4e92-8dcb-3f506899c6d2": {
+            "Text": "'Canlandırma'nın hedefi, medikin medikal yeteneğinin %10'u kadar ek yara alır."
+        },
+        "1360a713-6e5e-4ac6-bec6-5809463cb6f1": {
+            "Text": "Aşırı Doz"
+        },
+        "d21a75bc-d75c-40fb-b9b3-eccda7c4f9dc": {
+            "Text": "'Saha Tıbbı'nın hedefi, normal iyileştirmenin yanı sıra medik/10 medikal yeteneği kadar geçici yara alır."
+        },
+        "eb1d50f6-fc59-4b40-b9a9-90992cc4347f": {
+            "Text": "Aşı"
+        },
+        "8fa1dc5a-3cd7-4dd7-85f2-bb3e29c25a45": {
+            "Text": "'Savaş İlaçları'nın hedefi, 2 tur boyunca tüm dirençlerde +10 alır."
+        },
+        "f3fc8e16-f668-47f8-9212-b57d18b84b2b": {
+            "Text": "Cerrah"
+        },
+        "375fb387-9404-4d51-bd81-b1281d6b2e7a": {
+            "Text": "'Saha Tıbbı'nın hedefindeki bir yarayı iyileştirme şansı vardır."
+        },
+        "5d1e5de1-c2b5-4bb3-91f1-037e96f1d2bb": {
+            "Text": "Vahşi Servo Kafatası"
+        },
+        "3aa4cdd3-9ed6-408b-8c40-ee8d2f6f2f2b": {
+            "Text": "Apothecarion Servo Kafatası, iyileştirilen müttefiğin yanındaki rastgele bir hedefe 5 seviye kanama verir."
+        },
+        "3b3dd8c9-a4a7-4430-90a0-817010b9c79f": {
+            "Text": "Kötü Tıp"
+        },
+        "907ab6f0-f8ef-4011-a059-6b15c8919fe9": {
+            "Text": "İğne silahlarıyla başarılı saldırılar, medikin medikal yeteneğinin %10'u kadar ekstra toksin yükü ekler."
+        },
+        "27ffd9d5-686e-4cf6-aae2-e0b233bdc3c3": {
+            "Text": "Doktor, kendini iyileştir"
+        },
+        "009bdaad-0691-4e12-aaf8-3cdaa43cb624": {
+            "Text": "Medik bir iyileştirme yeteneği kullandığında, medik/5 kadar yara kazanır."
+        },
+        "ab434338-35af-4964-84a2-8611bcbad083": {
+            "Text": "İlk Müdahaleci"
+        },
+        "cd76dcd7-6480-4b28-91d8-16b0a69b52fb": {
+            "Text": "Medik, inisiyatif atışlarına algı bonusunu ekler."
+        },
+        "c23e8b2b-66f8-4b7a-87c8-8ab3a37789a2": {
+            "Text": "Sentetik Deri Greftleyici"
+        },
+        "c27f8746-3aa6-4582-86cc-0133037f5c70": {
+            "Text": "'Saha Tıbbı' ile iyileştirilen müttefikler, savaşın geri kalanında zırhlarında %5 artış alır."
+        },
+        "d63858c4-2fb1-48a0-81d6-30a17f354a2d": {
+            "Text": "Yardım Yolda"
+        },
+        "b4f064f3-ec75-4dd6-9137-d594e77e7b12": {
+            "Text": "'İmdat'a kullanım, bitişik düşmanlardan fırsat saldırılarını tetiklemez."
+        },
+        "cdb07f43-b759-49c1-8726-b4ecc1064607": {
+            "Text": "Şimdi ya da Asla"
+        },
+        "40d4babc-c800-4bbd-a69d-5d07f1322ba2": {
+            "Text": "Enerji %50'nin altında olduğunda, medikin medikal yeteneği %10 artar."
+        },
+        "1a15ba15-98b1-4960-8d4f-9eefb8d89ba4": {
+            "Text": "Savaş Gazisi"
+        },
+        "7ad5b5ee-fdde-4b2c-98f5-5fda80bf7037": {
+            "Text": "Medik, bilinen medikal yeteneklerin sayısına göre kararlılık puanını artırır."
+        },
+        "f5d40d80-2eac-4053-bec7-48da3ba847d7": {
+            "Text": ""
+        },
+        "5f4f96c0-e57c-4f04-8291-d867a04c44ee": {
+            "Text": ""
+        }
+    }
+}

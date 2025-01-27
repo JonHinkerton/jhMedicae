@@ -74,35 +74,11 @@ public class MoveServoSkullToAbilityTarget : ContextAction
     }
 }
 
-[Serializable]
-[TypeId("531885d8c73645194a8765e6bb27a3bb")]
-public class CheckCasterIsTarget : PropertyGetter, PropertyContextAccessor.IOptionalAbilityWeapon, PropertyContextAccessor.IOptional, PropertyContextAccessor.IBase
-{
-    protected override int GetBaseValue()
-    {
-        var log = PFLog.Mods;
-        var target = this.PropertyContext.ContextMainTarget;
-        var caster = this.PropertyContext.ContextCaster;
-        log.Log("jhm checkcaster " + target + " " + caster);
-        if (target == caster)
-        {
-            return 1;
-        }
-
-        return 0;
-    }
-
-    protected override string GetInnerCaption(bool useLineBreaks)
-    {
-        return $"jhm is caster target";
-    }
-}
 class ClassesWithGuid
 {
     public static List<(Type, string)> Classes = new List<(Type, string)>()
     {
         (typeof(CheckAbilityWeaponIsNeedle), "8f5f1c0e21a08e24db71bc053ae54aa9"),
-        (typeof(MoveServoSkullToAbilityTarget), "2ebf85d8c73645194a2e4fe6bb27a3bb"),
-        (typeof(CheckCasterIsTarget), "531885d8c73645194a8765e6bb27a3bb")
+        (typeof(MoveServoSkullToAbilityTarget), "2ebf85d8c73645194a2e4fe6bb27a3bb")
     };
 }

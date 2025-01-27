@@ -1,1 +1,208 @@
-{"strings":{"a239a8df-9d4f-46b7-833d-8889b883b23d":{"Offset":0,"Text":"<u>(3 + {g|Encyclopedia:WarhammerAgility}BEW{/g}-Bonus des {g|Encyclopedia:CareerVeteranGlossary}Erzmilitanten{/g})</u>"}}}
+{
+    "strings": {
+        "60436fb4-dd59-4af2-88a7-374b6468ba9e": {
+            "Text": "Medicae"
+        },
+        "73fa5e48-6051-43f8-8341-993ec9c29392": {
+            "Text": "Auf den Schlachtfeldern des Imperiums werden Leben leichtfertig geopfert, aber sie sind nicht umsonst. Ein Soldat, der sein Lasergewehr wieder aufnehmen kann, ist wertvoller als einer, der im Schlamm verblutet. Verwundungen zu versorgen, die überlebt werden können, und jenen Erleichterung zu bieten, deren Wunden tödlich sind, ist die Aufgabe der Medicae. Diese entschlossenen Feldchirurgen tragen eine Vielzahl von Wundbehandlungen und Kampfdrogen bei sich, deren einziger Zweck es ist, Soldaten wieder in die Schlacht zu schicken - langfristige Ergebnisse liegen außerhalb ihrer Verantwortung."
+        },
+        "8727793d-be2e-4aea-a5c0-d0284ddd47a2": {
+            "Text": "Feldmedizin"
+        },
+        "f0dcfaba-a9f0-4541-8f0b-6e93260b66ee": {
+            "Text": "Die Medicae heilt einen angrenzenden Verbündeten um (Medicae/4)+(Medicae/10) Wunden. Diese Fähigkeit entfernt auch Blutungen, Verbrennungen und Toxine und heilt eine frische Verletzung."
+        },
+        "634067d8-9827-43c4-a189-da074929c584": {
+            "Text": "Wiederbeleben"
+        },
+        "a9dc0584-1581-4871-837e-3d7eabe0001e": {
+            "Text": "Ein benachbarter, niedergeschlagener Verbündeter wird mit 10% seiner maximalen Wunden wieder in Aktion gebracht."
+        },
+        "30745d46-8364-4b20-9973-f14c2dbc43a3": {
+            "Text": "Apothecarion-Servoschädel"
+        },
+        "44cfb36b-b25a-4b68-a7ab-1cdc6fd56a2d": {
+            "Text": "Dieser Servoschädel kann jeden Verbündeten innerhalb von 6 Zellen um (Medicae/4)+(Techniknutzung/10) Wunden heilen."
+        },
+        "fe35c7e8-c11a-4b99-a173-d542ba182724": {
+            "Text": "Zur Rettung"
+        },
+        "86e88282-b13e-4d53-89e8-4761db2c0f1b": {
+            "Text": "Die Medicae kann sich bis zu 3 + Entschlossenheit Zellen bewegen. Beendet die Bewegung für den Zug."
+        },
+        "725f7d4a-af6e-4a87-b262-b95a91a15665": {
+            "Text": "Medevac"
+        },
+        "59178786-c25e-43e4-9b88-28392d999e3d": {
+            "Text": "Ein Verbündeter bis zu 6 Zellen entfernt bewegt sich zur nächstgelegenen angrenzenden Zelle."
+        },
+        "ec216a29-dd8e-4611-aa4f-108eca553243": {
+            "Text": "Kampfdrogen"
+        },
+        "2a85eb96-bb1b-4fe7-b20f-798a9d9c5eaa": {
+            "Text": "Diese Fähigkeit fügt 20% der Medicae-Fähigkeit des Medicae zum Ziel hinzu, was Stärke, Zähigkeit und Beweglichkeit für 2 Züge erhöht."
+        },
+        "91f37709-0d5d-47c2-b8fb-264e344b4c6a": {
+            "Text": "Des Kaisers Frieden"
+        },
+        "b1edd962-56b3-478f-8ffd-7101317c6bdf": {
+            "Text": "Die Medicae kann einem benachbarten handlungsunfähigen Feind (einem, der betäubt ist oder nicht handeln kann) tödliche Schäden zufügen."
+        },
+        "944c7d9a-9bf3-4ad4-a35a-3813d0032443": {
+            "Text": "Triage"
+        },
+        "35186455-991c-46c0-a5f4-7c995f3a881b": {
+            "Text": "Diese Fähigkeit heilt alle Verbündeten um 50% ihrer maximalen Wunden."
+        },
+        "7b4c20a2-e516-4039-afd1-6b6021e6d674": {
+            "Text": "Triage"
+        },
+        "9866dd54-0275-49fa-9d9a-67c99ef0ae11": {
+            "Text": "Diese Fähigkeit heilt alle Verbündeten um 50% ihrer maximalen Wunden, aber die Medicae erhält Schäden in Höhe von 50% ihrer maximalen Wunden."
+        },
+        "6ccf612e-83be-4bdd-86d2-73db44911448": {
+            "Text": "Triage (Upgrade 1)"
+        },
+        "55dc828e-63f8-4678-8a3f-73676be5c25d": {
+            "Text": "Alle Verbündeten werden stattdessen vollständig geheilt."
+        },
+        "dcfa3425-df82-4897-81a6-84d3f1b270c4": {
+            "Text": "Triage (Upgrade 2)"
+        },
+        "5a0b11e6-f7d7-4a58-8184-2a0a4c531acf": {
+            "Text": "Verbündete, die von Triage gezielt werden, sind für einen Zug gegen tödliche Wunden immun."
+        },
+        "e31ab3a8-3858-4acb-b2c0-adf8fca280dc": {
+            "Text": "Triage (Upgrade 3)"
+        },
+        "645a45e3-0174-49b0-8b95-1bacab1c4ba2": {
+            "Text": "Triage entfernt auch Verbrennungen, Blutungen und Toxine von Verbündeten."
+        },
+        "243c7eb1-6120-4484-8f74-3ba138be87f3": {
+            "Text": "Triage (Upgrade 4)"
+        },
+        "ad2e24ee-5d6a-4ea3-ba7a-c56a6246e49d": {
+            "Text": "Triage fügt der Medicae-Fähigkeit der Medicae für den Rest des Kampfes einen 10% Bonus hinzu."
+        },
+        "a8666f4c-6b98-4e9a-86d9-9996a28f3d9f": {
+            "Text": "Gut Ausgestattet"
+        },
+        "ce5ada95-dabc-413d-a1cd-7c28ee45fef4": {
+            "Text": "Die Medicae hat eine 50% Chance, beim Einsatz eines Medikits keine Ladung zu verbrauchen."
+        },
+        "1f67e1e5-bad8-4154-b091-a691ffc37599": {
+            "Text": "Diagnostiker"
+        },
+        "6ec0424d-dd91-422a-a232-a300bcce636e": {
+            "Text": "Feldmedizin heilt zusätzlich 5% pro Punkt auf dem Ziel."
+        },
+        "2a6b81c3-88df-4048-83f3-374b648f5ae5": {
+            "Text": "Anatomist"
+        },
+        "a66c4390-cefa-40fc-b96c-bc93dc47667a": {
+            "Text": "Die Medicae erhält einen Bonus von Medicae-Fähigkeit/5 auf die Chance für kritische Treffer mit Kettenwaffen und Nadelwaffen."
+        },
+        "1467bacd-3692-4a6e-b363-555a5b439ddd": {
+            "Text": "Amputieren"
+        },
+        "7a62c66b-925b-46db-9f2d-c93ec2e7e196": {
+            "Text": "Treffer im Nahkampf mit Kettenwaffen verursachen Carouse/15 Stufen von Blutungen beim Ziel."
+        },
+        "a8d6acd2-72fd-422c-a941-3a0beb2f5936": {
+            "Text": "Knochensäge"
+        },
+        "7428ad04-2b28-4ee7-b9a6-3add68598fc7": {
+            "Text": "Der Schadensbonus mit Kettenwaffen basiert auf der Carouse-Fähigkeit anstatt auf Stärke."
+        },
+        "8c80cf4e-64c2-48c3-9840-9caf727eadce": {
+            "Text": "Vorwitziger Servoschädel"
+        },
+        "8f4f3500-fda1-4b7e-8675-732c751187c3": {
+            "Text": "Der Apothecarion-Servoschädel kann bei Verbündeten bis zu 10 Zellen Entfernung eingesetzt werden."
+        },
+        "f841a10e-55be-4d56-ae6d-43dc18897538": {
+            "Text": "Tief halten"
+        },
+        "5b25c69f-011d-4ff3-a8f3-c6d7a49fa681": {
+            "Text": "Durch den Einsatz von Zur Rettung wird die Medicae für einen Zug zum Ziel mit der niedrigsten Priorität."
+        },
+        "8e2d4b87-85b3-4b1a-91fb-7f9ca7f2867f": {
+            "Text": "Reanimator"
+        },
+        "1782299a-48e4-4e92-8dcb-3f506899c6d2": {
+            "Text": "Das Ziel von Wiederbeleben erhält zusätzlich 10% der Medicae-Fähigkeit der Medicae an Wunden."
+        },
+        "1360a713-6e5e-4ac6-bec6-5809463cb6f1": {
+            "Text": "Übermedikation"
+        },
+        "d21a75bc-d75c-40fb-b9b3-eccda7c4f9dc": {
+            "Text": "Das Ziel von Feldmedizin erhält zusätzlich zu normaler Heilung temporäre Wunden in Höhe von Medicae-Fähigkeit/10 der Medicae."
+        },
+        "eb1d50f6-fc59-4b40-b9a9-90992cc4347f": {
+            "Text": "Immunisieren"
+        },
+        "8fa1dc5a-3cd7-4dd7-85f2-bb3e29c25a45": {
+            "Text": "Das Ziel von Kampfdrogen erhält für 2 Runden einen Widerstandszuwachs von +10 gegen alle Widerstände."
+        },
+        "f3fc8e16-f668-47f8-9212-b57d18b84b2b": {
+            "Text": "Chirurg"
+        },
+        "375fb387-9404-4d51-bd81-b1281d6b2e7a": {
+            "Text": "Feldmedizin hat eine Chance, eine Verletzung beim Ziel zu heilen."
+        },
+        "5d1e5de1-c2b5-4bb3-91f1-037e96f1d2bb": {
+            "Text": "Bösartiger Servoschädel"
+        },
+        "3aa4cdd3-9ed6-408b-8c40-ee8d2f6f2f2b": {
+            "Text": "Der Apothecarion-Servoschädel fügt einem zufälligen Ziel, das an einen Verbündeten angrenzt, 5 Stufen von Blutungen zu."
+        },
+        "3b3dd8c9-a4a7-4430-90a0-817010b9c79f": {
+            "Text": "Schlechte Medizin"
+        },
+        "907ab6f0-f8ef-4011-a059-6b15c8919fe9": {
+            "Text": "Erfolgreiche Angriffe mit Nadelwaffen fügen zusätzliche Toxinstapel in Höhe von 10% der Medicae-Fähigkeit der Medicae hinzu."
+        },
+        "27ffd9d5-686e-4cf6-aae2-e0b233bdc3c3": {
+            "Text": "Heile dich selbst, Arzt"
+        },
+        "009bdaad-0691-4e12-aaf8-3cdaa43cb624": {
+            "Text": "Wenn die Medicae eine Heilfähigkeit einsetzt, erhält sie Medicae/5 Wunden."
+        },
+        "ab434338-35af-4964-84a2-8611bcbad083": {
+            "Text": "Ersthelfer"
+        },
+        "cd76dcd7-6480-4b28-91d8-16b0a69b52fb": {
+            "Text": "Die Medicae fügt ihrem Initiative-Wurf ihren Wahrnehmungsbonus hinzu."
+        },
+        "c23e8b2b-66f8-4b7a-87c8-8ab3a37789a2": {
+            "Text": "Synhaut-Transplanter"
+        },
+        "c27f8746-3aa6-4582-86cc-0133037f5c70": {
+            "Text": "Verbündete, die mit Feldmedizin geheilt wurden, erhalten für den Rest des Kampfes 5% mehr Rüstung."
+        },
+        "d63858c4-2fb1-48a0-81d6-30a17f354a2d": {
+            "Text": "Hilfe ist unterwegs"
+        },
+        "b4f064f3-ec75-4dd6-9137-d594e77e7b12": {
+            "Text": "Der Einsatz von Zur Rettung provoziert keine Angriffe von Gelegenheit von angrenzenden Gegnern."
+        },
+        "cdb07f43-b759-49c1-8726-b4ecc1064607": {
+            "Text": "Jetzt oder nie"
+        },
+        "40d4babc-c800-4bbd-a69d-5d07f1322ba2": {
+            "Text": "Die Medicae-Fähigkeit der Medicae wird um 10% erhöht, wenn der Schwung unter 50 liegt."
+        },
+        "1a15ba15-98b1-4960-8d4f-9eefb8d89ba4": {
+            "Text": "Kampfveteran"
+        },
+        "7ad5b5ee-fdde-4b2c-98f5-5fda80bf7037": {
+            "Text": "Erhöhe die Entschlossenheit der Medicae um die Anzahl der bekannten Medicae-Fähigkeiten."
+        },
+        "f5d40d80-2eac-4053-bec7-48da3ba847d7": {
+            "Text": ""
+        },
+        "5f4f96c0-e57c-4f04-8291-d867a04c44ee": {
+            "Text": ""
+        }
+    }
+}
