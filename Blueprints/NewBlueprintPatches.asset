@@ -34,3 +34,9 @@ MonoBehaviour:
   - Guid: bcefe9c41c7841c9a99b1dbac1793025
     Filename: AscensionCareerPath.patch
     PatchType: 2
+  - Guid: 2e3756e28ece47508977b5628645aefc
+    Filename: GiveWeapons_Holder.patch
+    PatchType: 2
+  - Guid: b485d1c8f1264f1e82c3f9c24ef15a02
+    Filename: SpawnCorridorClassChest.patch
+    PatchType: 2

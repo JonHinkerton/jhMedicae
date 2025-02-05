@@ -1,0 +1,89 @@
+{
+  "Actions": {
+    "Actions": [
+      {
+        "PatchType": "PatchElement",
+        "Target": "$RandomAction$01eb0112d97f438aabd2782bc3721e45",
+        "ElementPatch": {
+          "Actions": [
+            {
+              "PatchType": "Insert",
+              "NewElement": {
+                "Weight": 1,
+                "Conditions": {
+                  "Operation": "And",
+                  "Conditions": [
+                    {
+                      "$type": "f310985bf2724df4a97b165f74b806e8, HasFact",
+                      "name": "$HasFact$a257a346b09a4c15a532e825a8aa8cd3",
+                      "Not": false,
+                      "Unit": {
+                        "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                        "name": "$PlayerCharacter$294566a2d0154da98c1fdf0cdac966c1"
+                      },
+                      "m_Fact": "!bp_3d9d2472a8a843dcbf90f182e8e623bd"
+                    }
+                  ]
+                },
+                "Action": {
+                  "Actions": [
+                    {
+                      "$type": "3abef1c138b2b3344bebcf6fbbe5cf47, HideMapObject",
+                      "name": "$HideMapObject$312c49d4db2245b3a2b9ee65109973b4",
+                      "MapObject": {
+                        "$type": "2f7f1ee24f13dca42977f3b2b5a847f8, MapObjectFromScene",
+                        "name": "$MapObjectFromScene$45a25434-a82a-4718-a149-3f92d0a3ee22",
+                        "MapObject": {
+                          "EntityNameInEditor": "CorridorChestFighter",
+                          "_entity_id": "9b2e667f-0380-4824-a636-b85baa3f05d4",
+                          "SceneAssetGuid": "d26d474b9d85dff41aebef0af2bab13f"
+                        }
+                      },
+                      "Unhide": true
+                    }
+                  ]
+                }
+              },
+              "InsertAfterTarget": {
+                "Weight": 1,
+                "Conditions": {
+                  "Operation": "And",
+                  "Conditions": [
+                    {
+                      "$type": "f310985bf2724df4a97b165f74b806e8, HasFact",
+                      "name": "$HasFact$d4ce90cb-ea59-4ad6-8b46-14ff073cc577",
+                      "Not": false,
+                      "Unit": {
+                        "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                        "name": "$PlayerCharacter$150d7e41-8b57-45d2-b10e-0aee3c7c0a39"
+                      },
+                      "m_Fact": "!bp_1529e5a0e7844bf3bb8d0cc0501264d4"
+                    }
+                  ]
+                },
+                "Action": {
+                  "Actions": [
+                    {
+                      "$type": "3abef1c138b2b3344bebcf6fbbe5cf47, HideMapObject",
+                      "name": "$HideMapObject$e1d10bb1-8470-4581-8de6-a79a701ea6e2",
+                      "MapObject": {
+                        "$type": "2f7f1ee24f13dca42977f3b2b5a847f8, MapObjectFromScene",
+                        "name": "$MapObjectFromScene$c8e798f9-62ab-43b8-9639-3b96e2d3805f",
+                        "MapObject": {
+                          "EntityNameInEditor": "CorridorChestAdept",
+                          "_entity_id": "37047195-eb5b-4ecc-8f15-f5f08a87bd54",
+                          "SceneAssetGuid": "d26d474b9d85dff41aebef0af2bab13f"
+                        }
+                      },
+                      "Unhide": true
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

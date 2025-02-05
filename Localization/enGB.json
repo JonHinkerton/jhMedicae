@@ -43,7 +43,7 @@
 			"Text": "This ability adds 20% of the medicae's medicae skill to the target's Strength, Toughness, and Agility for 2 turns."
 		},
 		"91f37709-0d5d-47c2-b8fb-264e344b4c6a": {
-			"Text": "The Emperer's Peace"
+			"Text": "The Emperor's Peace"
 		},
 		"b1edd962-56b3-478f-8ffd-7101317c6bdf": {
 			"Text": "The medicae can deal fatal damage to an adjacent incapacitated enemey (One who is stunned or can't act)."
@@ -148,7 +148,7 @@
 			"Text": "Chiurgeon"
 		},
 		"375fb387-9404-4d51-bd81-b1281d6b2e7a": {
-			"Text": "Battlefield Medicine has a chance to clear one injury on the target."
+			"Text": "Battlefield Medicine has a chance to clear one trauma on the target."
 		},
 		"5d1e5de1-c2b5-4bb3-91f1-037e96f1d2bb": {
 			"Text": "Vicious Servoskull"

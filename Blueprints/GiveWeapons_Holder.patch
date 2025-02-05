@@ -1,0 +1,79 @@
+{
+  "Actions": {
+    "Actions": [
+      {
+        "PatchType": "Insert",
+        "NewElement": {
+          "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+          "name": "$Conditional$7e28a0d2910e4f3fb1afac3bb3e35611",
+          "Comment": "medic",
+          "ConditionsChecker": {
+            "Operation": "And",
+            "Conditions": [
+              {
+                "$type": "f310985bf2724df4a97b165f74b806e8, HasFact",
+                "name": "$HasFact$1dd4278fbea94e0d94867159e2baff0f",
+                "Not": false,
+                "Unit": {
+                  "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+                  "name": "$PlayerCharacter$bb90a0113bb6422bb39ca25bd559b70b"
+                },
+                "m_Fact": "!bp_3d9d2472a8a843dcbf90f182e8e623bd"
+              }
+            ]
+          },
+          "IfTrue": {
+            "Actions": [
+              {
+                "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
+                "name": "$AddItemToPlayer$a5c66f2823064edba40e77f72959252c",
+                "m_ItemToGive": "!bp_d1fcb447486c4163b178e248f9ebc929",
+                "Silent": false,
+                "Quantity": 1,
+                "Identify": true,
+                "Equip": false,
+                "EquipOn": null,
+                "PreferredWeaponSet": 0,
+                "m_Hand": "Any",
+                "ForceEquip": false,
+                "ErrorIfDidNotEquip": true
+              },
+              {
+                "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
+                "name": "$AddItemToPlayer$bfbb8d109e464377854bb77284cf3bbb",
+                "m_ItemToGive": "!bp_ca22b8d5c271448b882ebdf262f9ea1a",
+                "Silent": false,
+                "Quantity": 1,
+                "Identify": true,
+                "Equip": false,
+                "EquipOn": null,
+                "PreferredWeaponSet": 0,
+                "m_Hand": "Any",
+                "ForceEquip": false,
+                "ErrorIfDidNotEquip": true
+              },
+              {
+                "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
+                "name": "$AddItemToPlayer$63a3013985d74922948e33e037826c13",
+                "m_ItemToGive": "!bp_56e3576b84384495b9015d5ec88217ac",
+                "Silent": false,
+                "Quantity": 1,
+                "Identify": true,
+                "Equip": false,
+                "EquipOn": null,
+                "PreferredWeaponSet": 0,
+                "m_Hand": "Any",
+                "ForceEquip": false,
+                "ErrorIfDidNotEquip": true
+              }
+            ]
+          },
+          "IfFalse": {
+            "Actions": []
+          }
+        },
+        "InsertAfterTarget": "$Conditional$737e9052-e44d-49d3-9fd1-f570e605bebf"
+      }
+    ]
+  }
+}
